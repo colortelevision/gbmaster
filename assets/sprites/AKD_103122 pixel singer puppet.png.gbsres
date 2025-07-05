@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "da46c609-96c8-4fc5-99c8-972f50e831b9",
+  "name": "AKD_103122 pixel singer puppet",
+  "symbol": "sprite_akd_103122_pixel_sin",
+  "width": 64,
+  "height": 64,
+  "states": [
+    {
+      "id": "7095e731-5413-4116-a0f5-aa448fb6dfe0",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "5cbf4cf0-407d-4c1b-ba4f-c9b5539a9d0b",
+          "frames": [
+            {
+              "id": "7d8ce544-a8bd-47a6-a10b-583c377e73a0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4f32f433-4462-4c15-b7f1-1c168ce48128",
+          "frames": [
+            {
+              "id": "03e406d2-b113-4e52-9fbc-f75b074013bd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c98c411e-3db5-47fd-9d67-8ed689fa1094",
+          "frames": [
+            {
+              "id": "80e3c921-f25f-41cb-acac-df113b7ea3d6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8d23b434-eaf4-42e9-bcc1-833b8b47acec",
+          "frames": [
+            {
+              "id": "26c6158f-bb7e-4830-a60a-4c1dbf5bcc73",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "071fad0c-2a10-4ec5-8c19-a840b636e3c3",
+          "frames": [
+            {
+              "id": "94de7675-f9e4-4df0-92a7-c859cfb98767",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a5473863-31c6-4532-a712-93970eff51ef",
+          "frames": [
+            {
+              "id": "888ff88d-0738-489a-9056-4c6edf559d3c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1ccaf5ed-0137-467e-b0d8-b8495a3a634c",
+          "frames": [
+            {
+              "id": "247eeb03-a016-4aea-a277-2e51d6fe1664",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "60312700-489d-4ef4-9184-e1228c929a35",
+          "frames": [
+            {
+              "id": "32421650-8f55-478e-bdfa-7b2c7a317830",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "AKD_103122 pixel singer puppet.png",
+  "checksum": "3ba76e30d5bda943e98316760ab5372c12e14bd0"
+}

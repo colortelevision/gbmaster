@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "268a62e4-aa0d-4f54-a0ae-4fb162aa2967",
+  "name": "npc_gardener",
+  "symbol": "sprite_npc_gardener",
+  "width": 16,
+  "height": 32,
+  "states": [
+    {
+      "id": "1307c42b-4d5d-4e58-beb5-a14611bac53e",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "cd9e7f71-f50e-4a72-baf5-94097e72f562",
+          "frames": [
+            {
+              "id": "508a3b48-9585-4fc6-9063-97ad2fafe814",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5d92e083-7a24-427b-a636-2b577c435c53",
+          "frames": [
+            {
+              "id": "c284d79b-f63b-47bb-937d-26cc1f3b5f5f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "26842d3d-b1ea-497a-a267-3feb254ff965",
+          "frames": [
+            {
+              "id": "3f7f79e9-3ef2-41ee-99c8-047dce1ba277",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "72b554f2-af00-4f8d-ac63-1f7f1f18b9fd",
+          "frames": [
+            {
+              "id": "d5dcff4e-9c50-4588-b9ee-59adf684df88",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b0d2e840-3a06-4472-a9b2-6f6fc84c5084",
+          "frames": [
+            {
+              "id": "0af9e17a-7aaa-430a-b1e0-7c8e7ce68685",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9b66f85f-64c7-40bb-9cd9-ef81adfc0cdd",
+          "frames": [
+            {
+              "id": "c474c7c5-04f6-4a9d-8ddb-b2b23fb4ac8c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f3dcd257-2912-4257-913b-564485c0d011",
+          "frames": [
+            {
+              "id": "aaed5ca0-5514-4b66-ad2e-eef44dcfd6db",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4cfd0b3f-5e0d-46fa-a818-d49d6720dd2a",
+          "frames": [
+            {
+              "id": "bbbdb918-c606-444e-9170-53a6192f0f19",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "npc_gardener.png",
+  "checksum": "d38f32b4a53309091a711e808a07eeb140a82b7a"
+}

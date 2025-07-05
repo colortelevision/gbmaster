@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "ec5e0846-ac07-4c34-95ac-2e6718468a00",
+  "name": "IRL_bulbs spritesheet",
+  "symbol": "sprite_irl_bulbs_spriteshee",
+  "width": 64,
+  "height": 64,
+  "states": [
+    {
+      "id": "ac17ab3a-8021-4329-b193-7b96fd9dce0f",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "5b9fa5cf-999b-41b6-9cba-237775371f5d",
+          "frames": [
+            {
+              "id": "289facec-6e94-4ba5-959c-74993855cddd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "79205443-6f80-44bc-8600-f11992d5c21a",
+          "frames": [
+            {
+              "id": "5fe927d9-9b3f-46c8-b35e-40e0f1c7e040",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "65cfbbcb-168d-47f1-a2d6-239cac20b4d3",
+          "frames": [
+            {
+              "id": "55265268-61e4-4ab8-bf1b-22946ef10db9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "37d3b7d3-ebbb-4356-bcc5-1fe7623d1bd4",
+          "frames": [
+            {
+              "id": "2835ea50-0772-4d4c-9eec-23dcedc75298",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "07801232-eaa3-42e0-aa02-d243aac6deb8",
+          "frames": [
+            {
+              "id": "66f5d4a1-1366-4b73-b808-302fe933b8d0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e121ac75-1411-4f0f-a97b-8e568739d80c",
+          "frames": [
+            {
+              "id": "13979a53-599f-4650-8b1d-aa235249edc7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "285fdef1-066e-42d1-87a4-c13ffb580f0b",
+          "frames": [
+            {
+              "id": "816e712e-0cff-4855-b881-e4bf3aec6585",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0d7cb3ff-3c4d-4428-8980-66c3f7d01236",
+          "frames": [
+            {
+              "id": "c5f804f9-b486-4522-bc4a-e72ea0efb4a5",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "IRL_bulbs spritesheet.png",
+  "checksum": "a3c054cd038d6dc2c350b45eef503678934bacaf"
+}

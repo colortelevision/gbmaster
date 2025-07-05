@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "4deef5a6-afa8-4baf-bc48-691f56dc0532",
+  "name": "RGB Spectrum",
+  "symbol": "bg_rgb_spectrum",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "tileColors": "",
+  "filename": "RGB Spectrum.png"
+}

@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "17d3db19-ac48-435a-9ddf-30e364e7d9c9",
+  "name": "250113-GB-INANNASTEMPLEFLAME",
+  "symbol": "bg_250113_gb_inannastemplef",
+  "width": 20,
+  "height": 20,
+  "imageWidth": 160,
+  "imageHeight": 160,
+  "tileColors": "0111c+07c+018+07c+0154+",
+  "filename": "250113-GB-INANNASTEMPLEFLAME.png"
+}

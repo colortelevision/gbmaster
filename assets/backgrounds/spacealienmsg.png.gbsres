@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "b70daef7-2683-4956-8b2e-81e355fc0e4f",
+  "name": "spacealienmsg",
+  "symbol": "bg_spacealienmsg",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "tileColors": "",
+  "filename": "spacealienmsg.png"
+}

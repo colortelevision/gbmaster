@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "9158c6fe-f3f1-4194-bea2-2ddf6b99d9fd",
+  "name": "25-JADEWII",
+  "symbol": "sprite_25_jadewii",
+  "width": 144,
+  "height": 144,
+  "states": [
+    {
+      "id": "bbf65fb9-5f9c-420b-b742-810227acc913",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "c3e2a4e9-01da-47be-bcf2-d5c97c3171b1",
+          "frames": [
+            {
+              "id": "0b4409fe-6209-4f39-9c70-c30ab9ccd937",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c807205f-48b7-4e08-8268-2fcf6e948b79",
+          "frames": [
+            {
+              "id": "922040e5-3839-4fd1-a677-8a19f2e26032",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f05ee775-e344-4ae0-811f-977e011781e8",
+          "frames": [
+            {
+              "id": "096c7b73-6143-4171-9e4d-249bca34e785",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5f55ccdc-9856-49d3-aa48-fb7002d5d866",
+          "frames": [
+            {
+              "id": "8467e8e0-8627-41e7-8ce6-e3d8bf2fb6cd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "eca52e23-6ea4-44e3-a1a6-8dacfd9615b6",
+          "frames": [
+            {
+              "id": "0a4d5571-106f-442d-8f1c-f3ea4347bdba",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b9c430f9-5f27-4233-aee1-aaf095daac13",
+          "frames": [
+            {
+              "id": "eb322225-bf63-426a-b99c-5e5bee285967",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3b6b8270-cbc0-4491-9ae8-07ad1da16b2d",
+          "frames": [
+            {
+              "id": "bca93f6f-09c3-4d81-a5a0-641fc31d4251",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "75d26eb7-081a-459f-bd90-fd8348f9f468",
+          "frames": [
+            {
+              "id": "a1e6ac82-a908-4c27-a397-e5eab9ef3fad",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "25-JADEWII.png",
+  "checksum": "5a0d549219c543faf737e775edbbaad118381d81"
+}

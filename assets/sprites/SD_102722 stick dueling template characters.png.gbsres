@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "534e3c9d-b9b3-4768-a944-a00d5a201d9c",
+  "name": "SD_102722 stick dueling template characters",
+  "symbol": "sprite_sd_102722_stick_duel",
+  "width": 640,
+  "height": 96,
+  "states": [
+    {
+      "id": "fe4a114b-7a03-468a-95c2-9c65c4827913",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "b221388c-b391-43dc-b7ea-8102987cdd9b",
+          "frames": [
+            {
+              "id": "af66993c-da79-4916-9336-9b8221248ba4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "78e27be5-592a-4029-9f63-07db4bc148f2",
+          "frames": [
+            {
+              "id": "fe821b9e-9649-4e12-9560-4c655bc5ee52",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d7ed7d58-833e-4e1e-8f8f-afd3e53a9046",
+          "frames": [
+            {
+              "id": "3574cd96-2b7d-4ad5-af83-74a538bd78a2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "693255d2-7411-4c7d-8960-f9df13e13a2c",
+          "frames": [
+            {
+              "id": "e9c5a7b2-440f-4fe6-89dc-cf0e0c4d9694",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f812c803-bedf-44af-a136-70829f66c5d2",
+          "frames": [
+            {
+              "id": "c1f5111a-e57e-4cc4-9a1d-2432d1c55924",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f6c8fff9-a10e-4209-8652-ab25eb5c507d",
+          "frames": [
+            {
+              "id": "269ef3a1-6781-46b7-bf4b-5fc9e868f35c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ce82d318-677f-4afe-8e94-2e8d6a181b0e",
+          "frames": [
+            {
+              "id": "3198cd98-2442-4171-bbe8-7aabbf043a15",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8b139eb7-5982-4683-bbbb-76456cc72b1a",
+          "frames": [
+            {
+              "id": "adc80a64-29b2-4243-830a-eb98ce04d079",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "SD_102722 stick dueling template characters.png",
+  "checksum": "599543ebdd2b7a4fd1e53f50c44a53dca0fc4864"
+}

@@ -1,0 +1,8 @@
+{
+  "_resourceType": "sound",
+  "id": "fa2ad0d6-0edc-4f73-9b88-0cb357347eca",
+  "name": "timer-gb_louder.wav",
+  "symbol": "sound_timer_gb_louder_wav",
+  "type": "wav",
+  "filename": "timer-gb_louder.wav"
+}

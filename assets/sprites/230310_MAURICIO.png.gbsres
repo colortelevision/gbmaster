@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "9431942d-ddb4-4466-b251-1231e67c3c28",
+  "name": "230310_MAURICIO",
+  "symbol": "sprite_230310_mauricio",
+  "width": 40,
+  "height": 40,
+  "states": [
+    {
+      "id": "f4dcf734-88b8-453a-b25c-a619cadda56d",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "82b900b9-4d1c-4771-b57a-3f7559085e54",
+          "frames": [
+            {
+              "id": "62028339-2c4f-41f5-bde4-0625caf32daa",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "63d48266-f4e7-4105-b577-cbca829ff65b",
+          "frames": [
+            {
+              "id": "824b35e6-0bbc-48ec-b5c8-4445b9d43f79",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d322d548-23a5-40c9-a960-79f0349d7358",
+          "frames": [
+            {
+              "id": "3626a17b-3b44-4ef9-a392-10278c335f8f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2e1ec9c2-e8a1-46dd-9238-47d8281b097c",
+          "frames": [
+            {
+              "id": "53bbe6f6-5ea4-4401-9957-781841171572",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5b904658-465b-4f6f-8bbd-b557e458733b",
+          "frames": [
+            {
+              "id": "57cebee1-1f2c-44e6-836a-42a55bf228bc",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9c18f656-6e01-492c-9568-a90f7b595656",
+          "frames": [
+            {
+              "id": "23cbed9d-8db5-4d91-8f6c-3b6a9ff58d5f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "25a3849e-08ac-402c-810e-9925b6cc5a64",
+          "frames": [
+            {
+              "id": "e62d505c-dbd5-45eb-8189-041dd1df88a0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "575e5896-7520-4bd3-afb7-8da2112e4263",
+          "frames": [
+            {
+              "id": "9963f8b7-128a-4c19-81ab-7fa6a24c01dc",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "230310_MAURICIO.png",
+  "checksum": "bf4c669578bf03ce016ad8c9525f2ca7c981a3cc"
+}

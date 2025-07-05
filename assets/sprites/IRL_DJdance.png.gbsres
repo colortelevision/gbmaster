@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "55855d2f-402c-433a-a9a8-4d771587d2f8",
+  "name": "IRL_DJdance",
+  "symbol": "sprite_irl_djdance",
+  "width": 96,
+  "height": 64,
+  "states": [
+    {
+      "id": "cdae1350-a03e-4d3d-adb7-fae5750d00f5",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "d91cc021-35b9-4234-ab25-07ea9d01d5cb",
+          "frames": [
+            {
+              "id": "18aee9bf-1e40-4837-87a4-253fcaa57372",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "663c88a5-acc8-4893-b868-8dfb551b7324",
+          "frames": [
+            {
+              "id": "b0da06c9-4ffc-4b84-9322-a10bddfb54d9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "af2c8b1e-561a-4e9f-8f78-c9a215e533c9",
+          "frames": [
+            {
+              "id": "dd46a78b-4faa-4dca-9e42-408a73483a43",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6cd33829-1e69-4bcf-b41d-1cf9ea2f112c",
+          "frames": [
+            {
+              "id": "6bb17ea7-8aa3-4fee-9cc1-a732727c817b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "35b09385-695b-4034-85ab-752b79a60e70",
+          "frames": [
+            {
+              "id": "52a1b2c1-f590-4446-9042-3010f875c908",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "02bf206c-43d9-47d2-a56f-7dc4b6a71438",
+          "frames": [
+            {
+              "id": "69b26908-eb8a-4090-81bc-69f73311e2fa",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e3204f67-c37e-4fb2-8807-1acc0335eca9",
+          "frames": [
+            {
+              "id": "3419fd48-5dfd-4e5d-9bca-30ca1c5b48c4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9fe21383-9155-494a-97cf-a25658ceb16d",
+          "frames": [
+            {
+              "id": "bb600f1e-0013-4cbe-b6a3-76c0444f942a",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "IRL_DJdance.png",
+  "checksum": "007632b0b55170ab3bfb90182dc5cae510114cb5"
+}

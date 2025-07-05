@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "7bf6018d-c3e3-4fbe-9d77-c964a1cbbb3f",
+  "name": "IRL_j arale correction",
+  "symbol": "sprite_irl_j_arale_correcti",
+  "width": 200,
+  "height": 50,
+  "states": [
+    {
+      "id": "252be1ef-57b8-4d58-b1ca-8b85d78cb7ce",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "feaad57e-2d9c-4332-b33f-bd29e22759f2",
+          "frames": [
+            {
+              "id": "46210b61-0186-4c3f-827e-7349c0511ec0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0f1cdc0c-62ba-422a-9518-c7a70d2943f9",
+          "frames": [
+            {
+              "id": "22a484f7-9ac6-42d0-b0e8-e60c6e3cd1ed",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "196f4db9-31d4-4402-8a15-1acbbf824b56",
+          "frames": [
+            {
+              "id": "afcbb50f-1eb0-47ee-91e0-0f8645fe4d79",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "07489fbb-b76e-446d-9b9b-b6fe1d05a66c",
+          "frames": [
+            {
+              "id": "6f1e600b-6ca3-44b6-8f6b-6c7524f7d71d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a804216f-94e1-4567-8a6f-feefbc532f58",
+          "frames": [
+            {
+              "id": "96e483f7-f9ba-479c-84e4-f368c00b295c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "64e6c83b-0c5e-4f46-aaa9-f410535cc2f0",
+          "frames": [
+            {
+              "id": "5ba5a550-2e97-4f36-9f30-102cb2af1961",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "387c9568-780d-4de8-a4dd-329fb6a823bc",
+          "frames": [
+            {
+              "id": "a3d57244-3075-46da-8c64-31541ab1b0a1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1aa09af7-976c-4ea6-8fc4-c95c47ef0f6a",
+          "frames": [
+            {
+              "id": "7669f7e5-4699-42e1-8d71-2709d2c43cd1",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "IRL_j arale correction.png",
+  "checksum": "f4c719eced5254e3492dfa17fa7aaf426f8b7bd0"
+}

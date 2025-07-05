@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "ca919da9-bc50-4e0d-883e-51ad12300fca",
+  "name": "SD_102622 stick dueling upgrade ",
+  "symbol": "sprite_sd_102622_stick_duel",
+  "width": 640,
+  "height": 96,
+  "states": [
+    {
+      "id": "d7a2090e-e7c8-41e5-9907-4379c663943e",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "0430af8b-e521-4550-8e6d-b7b3fc20a028",
+          "frames": [
+            {
+              "id": "ed3d9eca-ef29-42ec-bb18-c619be92c853",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2107ad09-4866-46b7-a16a-fe62e58140b2",
+          "frames": [
+            {
+              "id": "ee0ae7f9-326b-4349-8402-dd560bd4ad12",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d9b34046-b8de-47ed-a546-cf6cb90a250e",
+          "frames": [
+            {
+              "id": "fa603419-60e3-42dd-93c2-28b312cf7ca2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "28245b50-f265-4f0e-b23d-906c1fe448c5",
+          "frames": [
+            {
+              "id": "d4d32039-a1f1-44d8-b35a-99eb0f0dad80",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0d048125-fa67-46de-b631-9fe48c5a6292",
+          "frames": [
+            {
+              "id": "3611c991-04aa-4b37-adc4-5536091874a8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "09a25967-3b85-43d1-bc49-88551a072e13",
+          "frames": [
+            {
+              "id": "fe6f7a9e-8028-4c45-b1f6-e1d6909e710c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9b8a5643-75d8-4b02-ae54-90a44c04b894",
+          "frames": [
+            {
+              "id": "849c1cec-d67a-4740-87fa-b9531fff89af",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e8694ba6-4b61-4bc9-87a6-4e110e35b76f",
+          "frames": [
+            {
+              "id": "dad84147-3f1f-419c-bcba-a579194439a6",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "SD_102622 stick dueling upgrade .png",
+  "checksum": "5395f54b86b1a4053f9aa17671d3df90f2b05386"
+}

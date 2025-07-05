@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "d56660a3-ce81-45c9-be28-846dab349e94",
+  "name": "SD_110722 cricket",
+  "symbol": "sprite_sd_110722_cricket",
+  "width": 85,
+  "height": 80,
+  "states": [
+    {
+      "id": "0bb28aac-0848-44cf-9b4f-4e5243b3d3ab",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "4e06cbdb-f070-4589-8f01-c8d4f8e8fa1c",
+          "frames": [
+            {
+              "id": "43c07581-539d-4a21-9a3c-32fd19410626",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "32765f12-d560-4547-9f6b-1da4c52e6013",
+          "frames": [
+            {
+              "id": "c3153f0e-eea8-455e-9c92-8f521d61e016",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0359d823-a7a7-4baa-ad65-7afdc8b3c81a",
+          "frames": [
+            {
+              "id": "a89ce47c-9a34-493f-8f8a-131bfc272339",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "dc375b0f-f7f3-446a-a4fe-ea9a5a57ce54",
+          "frames": [
+            {
+              "id": "62760010-f206-4ef8-8058-7745ff62ffdb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "31a338c9-85bf-4cb3-8dd8-5e796d4788a2",
+          "frames": [
+            {
+              "id": "8611485f-6367-4847-8f26-4168eac555d6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "685d968c-6e51-4ebe-bd2a-b7d7d4c84628",
+          "frames": [
+            {
+              "id": "40d708ad-ab68-4acd-81ef-fbe5e6de930b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0a05aa5a-ab07-48f9-9df7-8601bbabdd5e",
+          "frames": [
+            {
+              "id": "a1fb7149-4d29-489b-b5f9-b006e3a7fe92",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "376397b1-d4c1-487f-847a-fd6ba45a61f0",
+          "frames": [
+            {
+              "id": "0fafd96b-4f75-47a7-bc90-0040a0fe9205",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "SD_110722 cricket.png",
+  "checksum": "3b3b0c64ae2bfae8059a5d0b69b1a8d283b367d6"
+}

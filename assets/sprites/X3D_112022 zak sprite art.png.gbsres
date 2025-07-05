@@ -1,0 +1,127 @@
+{
+  "_resourceType": "sprite",
+  "id": "4570eaf8-6cbd-40ba-bb79-fd36e6b4d7e1",
+  "name": "X3D_112022 zak sprite art",
+  "symbol": "sprite_x3d_112022_zak_sprit",
+  "width": 16,
+  "height": 16,
+  "states": [
+    {
+      "id": "2676c7b7-57c0-48f3-a664-a35e7a21bda2",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "e40e652e-d51c-45e0-8c20-2a9c89de4953",
+          "frames": [
+            {
+              "id": "b5d64d72-e5c7-403a-8c16-a0a40dbe7435",
+              "tiles": [
+                {
+                  "id": "0da1da41-51a7-4595-b599-62f1b8890d9d",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "02c96b60-f8fb-4524-b84a-4439be82254e",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2f80cb2e-4110-4f6f-8af3-a411013b4d04",
+          "frames": [
+            {
+              "id": "1c9a2bf3-2259-450e-b791-98f5be5e58e0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c7367e1b-e7e3-43b4-a619-f369acd39650",
+          "frames": [
+            {
+              "id": "2ec0ba34-e94c-4ff7-8bf5-cc6bc95de2a1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4982881a-34a9-4671-8f00-7279a4689713",
+          "frames": [
+            {
+              "id": "e39d4a6d-7ae1-4aae-b4d5-8f1f21cc48b2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "24fb48bf-ce53-40bf-89b4-e6a59c16db5d",
+          "frames": [
+            {
+              "id": "42a69ef3-cca6-4727-a945-ebee8b6b5291",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "15626240-1fb7-4ae6-ae44-38abef2e3baa",
+          "frames": [
+            {
+              "id": "02cb681f-53b6-4e2d-86bf-878b35d769cc",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "68ef1f39-7835-4c9e-81f8-c1a0df374ecd",
+          "frames": [
+            {
+              "id": "360cd26b-79ce-4a92-b0cd-1faaea1bc6ba",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "cc620571-d0c3-4430-98eb-39ef8e504c9b",
+          "frames": [
+            {
+              "id": "f52caa5e-8b3d-40a9-a4fe-bdb8da9fb446",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "X3D_112022 zak sprite art.png",
+  "checksum": "c8ef3f8ebdf6fae02963c5f5ba42bd0bc58b49d8"
+}

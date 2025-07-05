@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "c602a838-5067-46d2-b2a3-e3ce487d6aee",
+  "name": "splatter",
+  "symbol": "sprite_splatter",
+  "width": 16,
+  "height": 32,
+  "states": [
+    {
+      "id": "b8656712-bb75-46f4-bf1e-389c93c6e583",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "fcce4682-23d7-499f-bc86-9665e9440880",
+          "frames": [
+            {
+              "id": "55410877-37b8-41b3-84e7-2426130ff55f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "dadb85e6-0879-4eff-9560-12df4e0a84a6",
+          "frames": [
+            {
+              "id": "e444a212-8266-48fe-9f2f-1449c90d672a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "80d154bd-ec28-40ec-bd06-bea9cf953c09",
+          "frames": [
+            {
+              "id": "3c46e8d5-084b-41d6-888b-153d68743137",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "60f96619-64ba-4edf-b2a9-329170a7be8f",
+          "frames": [
+            {
+              "id": "7dd6ace8-46d6-4c1b-8056-b7fa16480c70",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e6bf61ab-ec64-4e17-8e9d-4e0924770e98",
+          "frames": [
+            {
+              "id": "86b3e90e-fb46-428a-aa28-9262cc65ec62",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "de4c817b-eb33-417f-9aba-a9a65deac76b",
+          "frames": [
+            {
+              "id": "d57521e8-b9b0-41dc-87b5-77c2768ec4f3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b74a96c1-4459-4092-89e2-6f50ed62caca",
+          "frames": [
+            {
+              "id": "6ea8b656-d417-4ba1-8fa2-f5b6ef3df88d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5fa559b0-ab06-47be-925c-1af92497b470",
+          "frames": [
+            {
+              "id": "ac6d2b50-6bdc-46dd-99b1-19e70d53f6db",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "splatter.png",
+  "checksum": "65bfcac0afa54ea39cfa6be2f408d4f1f506b3b8"
+}

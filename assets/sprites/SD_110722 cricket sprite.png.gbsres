@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "04527c35-35ac-4ba9-b248-efc51b22839e",
+  "name": "SD_110722 cricket sprite",
+  "symbol": "sprite_sd_110722_cricket_sp",
+  "width": 85,
+  "height": 80,
+  "states": [
+    {
+      "id": "c2b7585d-6922-43aa-8799-ff2c2287dda2",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "5bf20117-d5ce-4024-af82-0310ca918980",
+          "frames": [
+            {
+              "id": "d17a87e1-8607-4c01-9520-124da1759724",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "14aa892f-2c8b-46fc-b7bf-09874cecc9b1",
+          "frames": [
+            {
+              "id": "d8d6d925-d900-4ec4-97dd-be53caa9bfb8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f8634de6-0b00-41b4-8ae0-7c44071c6edc",
+          "frames": [
+            {
+              "id": "e8a0b253-0d6f-4f66-8d74-381b4e1c7569",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "48b297a5-40ec-4b25-8765-db92ff4ec802",
+          "frames": [
+            {
+              "id": "c6e1fa64-ae15-4c30-a0b9-81a138fab927",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9ba3610c-daf2-4d55-bfa2-4a09d22d02a5",
+          "frames": [
+            {
+              "id": "b86395c5-ae6a-4644-abb7-b8790218e9b2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7d63b7d9-2bce-4c7c-bb4c-4e7474fe21f3",
+          "frames": [
+            {
+              "id": "1dbd1309-ba60-47d7-96a5-5dcd6cb9978c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "300b80ec-62a0-4943-8599-ec043631b4b2",
+          "frames": [
+            {
+              "id": "e4c84ee2-e2ff-4ca3-beb2-1ddee0e8a96b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ee919c3c-547b-4716-be11-d7fb6880ac91",
+          "frames": [
+            {
+              "id": "70c43014-a7a5-46ac-a7d8-ea9a834e2944",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "SD_110722 cricket sprite.png",
+  "checksum": "7afca1f5d5ffd5d2b566b11722991c0cf8a5aeb3"
+}

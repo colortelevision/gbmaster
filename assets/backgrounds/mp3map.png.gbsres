@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "f534d4a0-bc5b-4ace-b559-1fdc214f6942",
+  "name": "mp3map",
+  "symbol": "bg_mp3map",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "tileColors": "",
+  "filename": "mp3map.png"
+}

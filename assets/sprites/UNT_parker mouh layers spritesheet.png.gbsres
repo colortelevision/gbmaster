@@ -1,0 +1,181 @@
+{
+  "_resourceType": "sprite",
+  "id": "864433e5-01af-484a-acdd-33187bd88fdf",
+  "name": "UNT_parker mouh layers spritesheet",
+  "symbol": "sprite_unt_parker_mouh_laye",
+  "width": 48,
+  "height": 16,
+  "states": [
+    {
+      "id": "c663eb74-6e8d-41e1-8a17-6e6579683e45",
+      "name": "",
+      "animationType": "multi",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "5f9139b0-942b-4a00-9d7c-6fb5c8438f9f",
+          "frames": [
+            {
+              "id": "740146c2-be3f-4865-98c0-d20cb365462e",
+              "tiles": [
+                {
+                  "id": "356207fe-1dd9-4524-8149-2abdbb3ec906",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 32,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "cfb13456-3ba5-4a0f-91f8-1f7e653489de",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 40,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "fceab291-6ab9-41fa-8845-fc266aac6542",
+          "frames": [
+            {
+              "id": "b3ad702e-d7fc-4c0e-ae41-370ca46a5787",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "dbba34da-f23e-498c-831f-2ce04603476d",
+          "frames": [
+            {
+              "id": "767b77d8-7b61-4f2c-9a27-c3b83e49232c",
+              "tiles": [
+                {
+                  "id": "03a8e05b-10a8-4472-a3e1-28f9db238e99",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "83bb1c0c-04c4-49c1-a0fe-90a3e39a179d",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "d9045173-e169-4758-82ca-8d4f8fe78202",
+          "frames": [
+            {
+              "id": "eb2aba58-f007-4e84-a1f2-fdc53165da44",
+              "tiles": [
+                {
+                  "id": "5a19270b-e040-41f1-a9dd-99d790acbda5",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "1db99d2c-d23d-4818-bf88-e74715e845b2",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bdcd1b43-6006-4bc0-8a24-f015323f0e25",
+          "frames": [
+            {
+              "id": "62229976-4336-4218-b498-b0bd17291877",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5c1dd88d-aeee-4ce5-8f05-b27cd5fe9ef0",
+          "frames": [
+            {
+              "id": "930ad462-705d-495f-84f0-b56041da933b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "37e9802b-7159-40a1-a908-e6187bbc0dde",
+          "frames": [
+            {
+              "id": "fb0aad55-14cc-467c-9a4a-166c344c79b9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "dc143d02-7fb0-4a40-b05d-f4db8f14d01d",
+          "frames": [
+            {
+              "id": "de321237-8f34-4092-819a-4729fb29930c",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 6,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "UNT_parker mouh layers spritesheet.png",
+  "checksum": "6aad76464e3e0b8a2d1b1491b37c4938008c9575"
+}

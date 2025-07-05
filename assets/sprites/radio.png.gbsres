@@ -1,0 +1,127 @@
+{
+  "_resourceType": "sprite",
+  "id": "3b0312a5-b522-4e16-a349-136a1280d211",
+  "name": "radio",
+  "symbol": "sprite_radio",
+  "width": 16,
+  "height": 16,
+  "states": [
+    {
+      "id": "6f68da24-6c7c-4043-8142-b01fbf9e539a",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "10d43d7f-5ecc-4b16-a3c4-51ee10db5e7b",
+          "frames": [
+            {
+              "id": "d29b2a33-0539-47e6-ac31-efa60fad482a",
+              "tiles": [
+                {
+                  "id": "494d51ab-b166-4ed4-ae2a-20edf41718ae",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "dc030cff-61d2-43ef-86fc-77ca6a3afa53",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "d66c3dc7-3a94-4fb2-ae40-d557ee077584",
+          "frames": [
+            {
+              "id": "7b015550-afdf-442f-8245-c7df4cc0616d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "af95472e-19e3-44ab-a44c-2be58bf3ee42",
+          "frames": [
+            {
+              "id": "a259605a-5e1e-4251-bd21-f7bf8497cfaa",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7ac7c674-d2c0-4507-931b-cf1625738a3a",
+          "frames": [
+            {
+              "id": "ee45eb4f-ff42-49d0-bb9c-6d4fb56d1daa",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8525de7c-3da1-4bd8-a8c4-ef8c967c09f3",
+          "frames": [
+            {
+              "id": "0566c83d-5a14-4e30-a6cd-00585dfb74ea",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4b6ea59a-8a24-4bfb-a4b4-c51a9aeb7b36",
+          "frames": [
+            {
+              "id": "8160cdca-3a11-467d-bc9f-7cbe47c0a587",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "716c9190-8f27-4d3e-aa62-5ccd042c6ddd",
+          "frames": [
+            {
+              "id": "cba7ec30-5ca3-4003-aadc-952ab80e8084",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "93046c33-b498-4dfc-8961-868942b0d051",
+          "frames": [
+            {
+              "id": "5feff18d-5d7c-4884-b69a-cc1aad71c864",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "radio.png",
+  "checksum": "ae9943b8ed1e48fe22fafe87bf1b64245dcbd31c"
+}

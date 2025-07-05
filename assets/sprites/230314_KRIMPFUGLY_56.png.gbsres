@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "c9463ce3-10a5-4adf-88e8-2cdde7814999",
+  "name": "230314_KRIMPFUGLY_56",
+  "symbol": "sprite_230314_krimpfugly_56",
+  "width": 56,
+  "height": 56,
+  "states": [
+    {
+      "id": "1bb35ea6-8922-4d4d-acc7-8f4a40b98c6f",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "ce27fe66-d94b-4b63-a113-19de2a681bbd",
+          "frames": [
+            {
+              "id": "24b8aff3-7d20-45eb-921d-2ca3ec5b0bb3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "15881086-4f66-4fca-a280-07522ae7a664",
+          "frames": [
+            {
+              "id": "a1e20fdb-b5df-423c-9baa-3c93a2862015",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "53a9979c-74a2-453e-aa2f-1bdeb7d3cf82",
+          "frames": [
+            {
+              "id": "eccd3cef-f9c6-4fb4-acad-4e3481df852e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "08225313-6a05-46a1-adbc-803327d7a240",
+          "frames": [
+            {
+              "id": "4beda8db-6362-49c5-9439-61856e73e50f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f62214eb-578d-4a9a-8888-7ba4278d58cd",
+          "frames": [
+            {
+              "id": "bdae6c70-52e3-4ba5-a71f-941a7fe2bc9b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "638644a7-abf0-4ede-b87b-1cc21e2451a8",
+          "frames": [
+            {
+              "id": "873754d4-3c0d-4613-9013-921dc0cd9393",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "74aa096b-9635-4b57-b36f-741608198d09",
+          "frames": [
+            {
+              "id": "f83847f6-0588-4c5a-92a4-a606d54cbeaf",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "354a1bcd-35d5-4db2-b7d1-f3e4f3035352",
+          "frames": [
+            {
+              "id": "093b5296-a286-478b-a1f1-412b16205e3e",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "230314_KRIMPFUGLY_56.png",
+  "checksum": "8048407516ca71257c9e40af21a202999951eb84"
+}

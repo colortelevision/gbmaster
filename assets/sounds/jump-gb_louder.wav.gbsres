@@ -1,0 +1,8 @@
+{
+  "_resourceType": "sound",
+  "id": "f500adae-15b1-45e0-8a18-a5a71557aea6",
+  "name": "jump-gb_louder.wav",
+  "symbol": "sound_jump_gb_louder_wav",
+  "type": "wav",
+  "filename": "jump-gb_louder.wav"
+}

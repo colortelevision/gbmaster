@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "db3c629c-24aa-47c4-91e1-e1d189cd388a",
+  "name": "enemy_ship",
+  "symbol": "sprite_enemy_ship",
+  "width": 64,
+  "height": 32,
+  "states": [
+    {
+      "id": "790ea5c3-50de-4ece-a20c-8ad1eb3df3ac",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "afaa1e49-ff1a-4e66-816f-0b6558cf7ed4",
+          "frames": [
+            {
+              "id": "5079a3eb-b6be-4816-ae6e-fd31a366e981",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "73066aa8-f097-43c9-b229-89cfce24adc5",
+          "frames": [
+            {
+              "id": "b30ff3d2-a661-4340-9c93-4b0d2b025d54",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "74e5a54b-fe73-43b4-a7da-9e6496082616",
+          "frames": [
+            {
+              "id": "a701e1fe-9063-465d-8f38-2cf7619d491c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1570c542-865a-439a-942d-deaecfbd03db",
+          "frames": [
+            {
+              "id": "d5d604b9-0568-469d-b3f0-918177167d43",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "30cd7d4d-3b74-4873-9101-e296edf45be8",
+          "frames": [
+            {
+              "id": "49863fd1-6006-4f88-a1e5-3c7814b2a440",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1ee59dec-384a-426e-94d4-8f57b8d6cabe",
+          "frames": [
+            {
+              "id": "0824dd9a-8486-43f5-9e3e-b5307df646c4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c2d2aa4f-36d8-4f4a-8f04-113062de94d9",
+          "frames": [
+            {
+              "id": "a7dc69ce-8b77-45cd-bc9f-c1fda6b9d98d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "982caa3a-8474-44dc-998b-6263068e2937",
+          "frames": [
+            {
+              "id": "4273340d-b079-4d0e-8927-a75009ebc67d",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "enemy_ship.png",
+  "checksum": "5ca3edf07271d35f48c4d5c6a795ad81d08b479f"
+}

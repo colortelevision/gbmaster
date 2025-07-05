@@ -1,0 +1,39 @@
+{
+  "_resourceType": "script",
+  "id": "8014b38e-e095-4527-b66d-1280ff463974",
+  "name": "drawChar",
+  "description": "",
+  "variables": {
+    "V0": {
+      "id": "V0",
+      "name": "Variable A",
+      "passByReference": true
+    }
+  },
+  "actors": {},
+  "symbol": "script_6",
+  "script": [
+    {
+      "command": "EVENT_RNG_SEED",
+      "args": {},
+      "id": "ee77399a-597b-4b90-a094-e7f7130a317b"
+    },
+    {
+      "command": "EVENT_SET_VALUE",
+      "args": {
+        "variable": "V0",
+        "value": {
+          "type": "rnd",
+          "value": {
+            "type": "rnd",
+            "value": {
+              "type": "constant",
+              "value": "ef9736f2-35fe-4b15-9ad7-7539fb0f4a9d"
+            }
+          }
+        }
+      },
+      "id": "198f5dc9-9b8b-4d1e-93ed-6c9cdbab8c79"
+    }
+  ]
+}

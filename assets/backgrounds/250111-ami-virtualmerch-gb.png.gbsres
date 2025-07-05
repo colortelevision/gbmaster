@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "bbe99608-a417-462e-8158-6b7c98c6b4a6",
+  "name": "250111-ami-virtualmerch-gb",
+  "symbol": "bg_250111_ami_virtualmerch_",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "tileColors": "042+05c+066+042+05c+066+042+05c+066+042+05c+066+042+05c+066+04!05d+066+04!055+04!054+043+066+042+05!045+052+044+066+04e+066+04e+066+04e+066+04e+066+04e+066+04e+066+04e+066+04e+066+04e+066+04e+066+",
+  "filename": "250111-ami-virtualmerch-gb.png"
+}

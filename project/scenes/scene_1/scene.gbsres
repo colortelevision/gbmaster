@@ -1,0 +1,68 @@
+{
+  "_resourceType": "scene",
+  "id": "bfa150bd-2805-4de8-91a4-b8d6b01335ae",
+  "_index": 0,
+  "type": "TOPDOWN",
+  "name": "Scene 1",
+  "symbol": "scene_1",
+  "x": 72,
+  "y": 32,
+  "width": 20,
+  "height": 18,
+  "backgroundId": "ed6e461d-265d-4bb5-8487-7a7e385fde26",
+  "tilesetId": "",
+  "paletteIds": [
+    "",
+    "",
+    "",
+    "default-sprite",
+    "default-bg-1"
+  ],
+  "spritePaletteIds": [],
+  "autoFadeSpeed": 1,
+  "script": [
+    {
+      "command": "EVENT_CALL_CUSTOM_EVENT",
+      "args": {},
+      "id": "be4a5fd1-8344-4e0f-a354-c75d7ab6417f"
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "READY?"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": 1,
+        "speedOut": 0,
+        "closeWhen": "key",
+        "closeButton": "any",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "ca935b04-d3fd-47b8-ae7e-ce096f383726"
+    },
+    {
+      "command": "EVENT_CHOICE",
+      "args": {
+        "variable": "1",
+        "trueText": "BORN RDY",
+        "falseText": "WAIT, WUT?"
+      },
+      "id": "64d11e74-9d20-419d-a6d3-d3cbfbed0f5c"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": ""
+}

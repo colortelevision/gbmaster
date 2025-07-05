@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "ec05ea98-047a-44f9-8730-a53c315747f0",
+  "name": "weirdgrid",
+  "symbol": "bg_weirdgrid",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "tileColors": "",
+  "filename": "weirdgrid.png"
+}

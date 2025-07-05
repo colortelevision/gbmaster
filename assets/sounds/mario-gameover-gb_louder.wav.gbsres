@@ -1,0 +1,8 @@
+{
+  "_resourceType": "sound",
+  "id": "bcd2f726-2923-46c5-a4ad-801131cbbbd4",
+  "name": "mario-gameover-gb_louder.wav",
+  "symbol": "sound_mario_gameover_gb_lou",
+  "type": "wav",
+  "filename": "mario-gameover-gb_louder.wav"
+}

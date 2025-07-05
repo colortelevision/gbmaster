@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "7d92e5fd-d186-45df-8642-fcdc1b2f3c52",
+  "name": "UNT_mattyuyu",
+  "symbol": "sprite_unt_mattyuyu",
+  "width": 48,
+  "height": 48,
+  "states": [
+    {
+      "id": "63b1ed64-8b05-4019-a6db-bb75bb61e8ab",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "9bfb6e9c-d719-4086-bddb-ceb69f256dd7",
+          "frames": [
+            {
+              "id": "c8ae5c6e-8d5d-406c-b655-c252a451728f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fdb7c4ed-5e78-4da9-8411-ddfe1f75da8a",
+          "frames": [
+            {
+              "id": "975ef31d-5327-49fd-9cc1-03246831903e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "88c80446-f6bc-4ba2-9e15-77e4fa73dd6f",
+          "frames": [
+            {
+              "id": "2a8ec07d-486e-41b3-a868-ec422c506aa7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9e6742de-773e-4b7c-8028-01f3f200c29f",
+          "frames": [
+            {
+              "id": "0d790bea-e4fe-4961-8faf-f3f524a91615",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "21e0ca5c-0f4c-484d-8431-cef6add306f9",
+          "frames": [
+            {
+              "id": "6740dc34-ed2f-4c40-a10c-f01da48f2b02",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "73f5eeb2-d50f-4867-95f9-d410d06d8e0c",
+          "frames": [
+            {
+              "id": "3057e43b-e4e4-4d8d-95f4-6c4b40c927ce",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9163d858-5c03-4e17-be15-7af8750a0bbd",
+          "frames": [
+            {
+              "id": "90dfb4a0-1807-449a-94fc-f53ec0fa81b6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "58720d88-0656-46be-beb6-abb6952c9742",
+          "frames": [
+            {
+              "id": "355564a0-f3e8-4eec-a2b2-c26f94ac5aa4",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "UNT_mattyuyu.png",
+  "checksum": "78f27ac40a95db6ec9f794d36003c51585c4373a"
+}

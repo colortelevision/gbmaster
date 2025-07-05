@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "09655e8f-0e2d-4510-af7a-2e309cb7346f",
+  "name": "UNT_parker",
+  "symbol": "sprite_unt_parker",
+  "width": 20,
+  "height": 54,
+  "states": [
+    {
+      "id": "18b4ead8-2eba-48af-8a34-6be762f689a2",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "b0de068e-6eba-428d-bad7-6ddcb74fb2fb",
+          "frames": [
+            {
+              "id": "5196e83c-f7db-4dde-9efd-c0975eb1e3db",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "87fc1d8e-1219-48a6-8316-569a2fe69324",
+          "frames": [
+            {
+              "id": "457df48c-e34f-4f52-8cab-088ef250aa73",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d9d39ce0-4d91-4149-8fea-6a8262f4675b",
+          "frames": [
+            {
+              "id": "69547bac-a15f-4cc6-b6ff-c0ea672bda01",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0e4729d2-c433-4afa-b4c7-5611187852b7",
+          "frames": [
+            {
+              "id": "7fd97015-8b79-4480-9a93-e4ff86ccc1bf",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c71092c6-346c-456a-9a22-717538c3d079",
+          "frames": [
+            {
+              "id": "5d7c575d-a68e-4819-9a18-06f2c526b4f6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "25634003-a028-4dd6-816a-aaa1de3a364d",
+          "frames": [
+            {
+              "id": "d7df46aa-7af0-4ad1-8ae1-7c25865c2dd2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0bff5cef-0091-4648-b7b2-e3b226c1a539",
+          "frames": [
+            {
+              "id": "0344ef21-2eed-455b-b418-221d701e60ee",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c7a2ac0c-ea7c-4caa-84f2-ca136853c6d0",
+          "frames": [
+            {
+              "id": "28ad7730-81e2-4f83-bda6-45e4d6291466",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "UNT_parker.png",
+  "checksum": "fec0514c4104ae852c45bb7bff617baf4a6970e0"
+}

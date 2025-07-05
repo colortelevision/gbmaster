@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "ca391eee-e85c-4c59-a69d-646f55fc6c00",
+  "name": "UNT_RYU PKMN style",
+  "symbol": "sprite_unt_ryu_pkmn_style",
+  "width": 43,
+  "height": 56,
+  "states": [
+    {
+      "id": "e542d5ec-aae0-4265-af2e-1daa864a10ff",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "b81a47b9-a96f-4c72-bf97-c428777b2761",
+          "frames": [
+            {
+              "id": "5f6b0c29-de96-4c0c-aead-eada52ad9541",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "70923214-ebb9-4541-8123-d2ae28d591f5",
+          "frames": [
+            {
+              "id": "8fced101-2a2d-45de-a36c-3f17a490e68d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1b26d198-b59b-4c78-8d17-5d89a7e19dc0",
+          "frames": [
+            {
+              "id": "e951754f-a5f8-4a44-bb5a-6945171fd187",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "10c7615c-bd63-462f-bedf-459e7b0dfa42",
+          "frames": [
+            {
+              "id": "23afd2df-b590-4eb9-9e39-a0c1ceb8910c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "741539a8-c262-4b79-a759-a7464f0e1601",
+          "frames": [
+            {
+              "id": "6ae39486-b339-49e4-8418-66155d68d633",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2693c42a-18c4-465b-91fe-d82c6697aa1f",
+          "frames": [
+            {
+              "id": "e0af2de4-16d8-4d59-9cd2-a9fa772b0bdd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "303594e7-b18d-467d-8cd9-d70fb31634a5",
+          "frames": [
+            {
+              "id": "412d683e-7aa5-4377-929a-6a63902ff253",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d0cd9144-51ab-4b64-8796-c16946683449",
+          "frames": [
+            {
+              "id": "76b5d289-3bb5-421e-971d-f892ebe63268",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "UNT_RYU PKMN style.png",
+  "checksum": "c5b0fd145c0b20b51e2bd624327cdbb564d7c100"
+}

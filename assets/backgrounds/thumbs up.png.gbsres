@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "62c6b532-963e-4d48-be7c-f8bc6fa14a09",
+  "name": "thumbs up",
+  "symbol": "bg_thumbs_up",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "tileColors": "",
+  "filename": "thumbs up.png"
+}

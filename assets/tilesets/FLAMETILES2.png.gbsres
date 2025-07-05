@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "c2e8f22f-3f2e-42c0-8515-5dc18e9fcb2d",
+  "name": "FLAMETILES2",
+  "symbol": "tileset_flametiles2",
+  "width": 8,
+  "height": 2,
+  "imageWidth": 64,
+  "imageHeight": 16,
+  "filename": "FLAMETILES2.png"
+}

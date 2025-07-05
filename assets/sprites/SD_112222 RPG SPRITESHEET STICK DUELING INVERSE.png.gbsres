@@ -1,0 +1,355 @@
+{
+  "_resourceType": "sprite",
+  "id": "8a22c193-cf14-4d0d-8e0d-caebedb2f68b",
+  "name": "SD_112222 RPG SPRITESHEET STICK DUELING INVERSE",
+  "symbol": "sprite_sd_112222_rpg_sprite",
+  "width": 96,
+  "height": 16,
+  "states": [
+    {
+      "id": "28409ee1-370b-4d87-b62d-314df968a173",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "7556fcfa-8ac8-4f82-bafa-5dafa537afd6",
+          "frames": [
+            {
+              "id": "5a7dd194-c85f-4455-802f-71e2e256e8aa",
+              "tiles": [
+                {
+                  "id": "1fe2526d-86da-4b30-87c2-1f3f21c39d57",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 64,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "b0745b76-c0ce-4468-9890-a6c1741c632f",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 72,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b7a36f48-da4f-4afc-9bfc-d78d1bf179dc",
+          "frames": [
+            {
+              "id": "3bcfe041-b2e8-422c-b086-9899de785c44",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "be10105a-549e-4992-906c-68c9524f91bc",
+          "frames": [
+            {
+              "id": "d20db045-7cf1-4782-aef0-6649e60abedd",
+              "tiles": [
+                {
+                  "id": "56410766-cdaa-442a-b2db-5d0900c977fb",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 32,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "41a2b073-615f-4d4b-903b-10e54f0ced90",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 40,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "e87cde56-3e95-4ef5-8448-d7a437a4eb28",
+          "frames": [
+            {
+              "id": "740392b5-2a83-48cc-ba24-f6bea1bdd852",
+              "tiles": [
+                {
+                  "id": "7e2a4177-0ae3-4fa7-bb77-74e421a6200b",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "e8cf1ff0-853c-4403-9db1-a23510ac7f5f",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "99d8a65d-b38e-4e3e-b406-67a27fe26be2",
+          "frames": [
+            {
+              "id": "cd80e469-51a7-4365-bc17-7c75d77491f2",
+              "tiles": [
+                {
+                  "id": "8f3516f1-dc97-418d-abfc-ab14028b4eae",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 80,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "fe152962-6e79-460b-b3e6-2da9dd2826ee",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 88,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            },
+            {
+              "id": "4d41185f-f7b7-4069-a9f2-a321e91a6925",
+              "tiles": [
+                {
+                  "id": "3f60b0d2-288a-4609-a058-eb41fc9825a3",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 64,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "8632505e-e46c-4997-bb9c-df9644acfcdb",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 72,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "f8325f15-c203-4ea2-b39a-527008ec506a",
+          "frames": [
+            {
+              "id": "f2f9fd57-a5c1-4ec4-8b1a-8b4f1bcfe423",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9955ca4b-1360-433b-a127-abc0d436d29c",
+          "frames": [
+            {
+              "id": "084af433-1855-4c8c-83f9-d3a53b89e999",
+              "tiles": [
+                {
+                  "id": "e9ad2716-8f05-42b9-a746-5ba23a11e3ab",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 48,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "ecd1f72c-2358-484e-a451-2ff7a56726e0",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 56,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            },
+            {
+              "id": "a281b003-f430-4816-978b-8b2f0bce9a6b",
+              "tiles": [
+                {
+                  "id": "7d712a52-5566-4252-a9dd-32947d516f17",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 32,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "b9781328-5302-40bd-8841-e8936cb84888",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 40,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "659ed257-01b8-4464-b698-1642a6502650",
+          "frames": [
+            {
+              "id": "5caef82c-330e-49c6-8aed-75157d5b252b",
+              "tiles": [
+                {
+                  "id": "ab2ea00c-c4b5-4cc0-97bb-d743032d8006",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "9bd2fee3-5edf-402a-b74e-860829d10845",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            },
+            {
+              "id": "de13141c-16a4-4410-a348-15524d76cf03",
+              "tiles": [
+                {
+                  "id": "b9b7cfbd-e72f-4c03-81f7-cce916d474cc",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "37066ee8-230c-432a-bb3e-b8358857feea",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 10,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "SD_112222 RPG SPRITESHEET STICK DUELING INVERSE.png",
+  "checksum": "dd02941c8fc9cc072eb9c9c93dafcbe436b549d4"
+}

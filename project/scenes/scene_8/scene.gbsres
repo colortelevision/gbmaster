@@ -1,0 +1,43 @@
+{
+  "_resourceType": "scene",
+  "id": "0eea1de9-f227-4843-92ed-ec6ca1082fc7",
+  "_index": 7,
+  "name": "Scene 8",
+  "backgroundId": "f1559b8f-32b7-412b-b80e-ddc24fccce58",
+  "tilesetId": "",
+  "width": 20,
+  "height": 20,
+  "type": "TOPDOWN",
+  "paletteIds": [
+    "9fdcf8ee-55d6-4fb8-b27d-54862a739e2c",
+    "4c562fad-58cd-42c9-9853-42c1d919c57d",
+    "9e3d1aab-572b-4af2-a857-739d22d3fc67",
+    "dc3ad898-b02b-40bf-b629-48a7a66c69ff",
+    "9f0daf83-67ed-411e-b30d-6c23d6251b8f",
+    "dc2f962d-1c50-4a20-9c60-7699aca60c99",
+    "d654aedd-e5fd-43fa-b086-08bc5a70aa3b",
+    "default-bg-1"
+  ],
+  "spritePaletteIds": [
+    "4c562fad-58cd-42c9-9853-42c1d919c57d"
+  ],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_8",
+  "x": 440,
+  "y": 288,
+  "script": [
+    {
+      "command": "EVENT_ACTOR_SET_ANIMATION_SPEED",
+      "args": {
+        "actorId": "$self$",
+        "speed": 3
+      },
+      "id": "78fc7964-d023-41b7-8605-b926ed501fbf"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "playerSpriteSheetId": "2bf5befa-2ef8-47ea-9f41-035392b4b138"
+}

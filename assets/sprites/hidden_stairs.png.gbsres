@@ -1,0 +1,127 @@
+{
+  "_resourceType": "sprite",
+  "id": "d2295a70-8ce0-409c-97fa-1fbcf6f65207",
+  "name": "hidden_stairs",
+  "symbol": "sprite_hidden_stairs",
+  "width": 16,
+  "height": 16,
+  "states": [
+    {
+      "id": "211d92ff-7da9-4a9b-bb85-3139de9cbecf",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "fbab21ee-baab-4659-891f-cd707fe2bdd1",
+          "frames": [
+            {
+              "id": "e538613e-fe9c-4eed-acee-8525a6e60717",
+              "tiles": [
+                {
+                  "id": "61746979-64b0-4e06-8926-1f5a3e24ca14",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "b91a7097-a075-4421-9ba0-29b5fa669b14",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "d5860ee5-7450-4d13-8552-1a1f7314ca65",
+          "frames": [
+            {
+              "id": "dcf4edd1-b7b5-4725-9834-8e1258509b53",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c712d881-b997-4df2-a30c-c147f961ab7e",
+          "frames": [
+            {
+              "id": "eea0553b-e6d4-4d39-8e28-fdd3ad653b27",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ce283597-33fc-4b0f-8b04-58d724da1c3e",
+          "frames": [
+            {
+              "id": "e8e5d78d-7c5d-495f-88cc-64d44048058b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2b12035d-577d-463b-810a-e034d7c1c440",
+          "frames": [
+            {
+              "id": "e448d99f-6a64-48a3-85a0-1fd64db0f3ff",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5b2244ab-61be-4240-b6d8-beee0e701b78",
+          "frames": [
+            {
+              "id": "c0150cb5-8676-4f52-bde9-3136a52f8eb9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b99f2b17-5c7c-445f-a879-28a3d6f3b10e",
+          "frames": [
+            {
+              "id": "f0e51b79-1f6c-425b-8efb-c03b30bc0599",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4c850264-0a9c-4c35-8dc2-84d8c1e614fd",
+          "frames": [
+            {
+              "id": "fa478afa-dcae-4238-a054-e9f43fd6ece0",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 1,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "hidden_stairs.png",
+  "checksum": "958c815a9dff5938722bb9a6d012a10249134190"
+}

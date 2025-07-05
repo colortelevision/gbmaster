@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "f68f4057-9870-49da-ad64-d5556e317f17",
+  "name": "UNT_110122 x4 portraits and doodies",
+  "symbol": "sprite_unt_110122_x4_portra",
+  "width": 160,
+  "height": 144,
+  "states": [
+    {
+      "id": "8799505c-2350-4d94-a634-5e8ab2d9e234",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "c95e9e37-213d-44c8-9c9c-36d63adbcdac",
+          "frames": [
+            {
+              "id": "b71c438b-80de-400e-b444-43dab23211b3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "792b5cd8-7833-434a-bdbb-6d73ce91abd8",
+          "frames": [
+            {
+              "id": "4c4abb4c-36f5-46f4-ab67-1a757be8e361",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8c125cb0-5144-40a8-9c8c-acade893457e",
+          "frames": [
+            {
+              "id": "2a5d31ef-a025-4d4f-8e00-4971d45956ad",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "aaa24a89-6577-41fb-9d84-8a7230d344ad",
+          "frames": [
+            {
+              "id": "be3e0579-3408-4c48-afa8-69b281c70d1d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "69bec116-7e4f-48fc-943d-789cd2bb60c6",
+          "frames": [
+            {
+              "id": "bf1ba8f4-7a23-4540-affd-ed11ba750f2a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3a82ec33-fb60-489c-85ab-1665ea946e55",
+          "frames": [
+            {
+              "id": "095f8c11-ff3e-4880-840e-69e3d6d13b25",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b1f9e14d-5627-4813-84b0-d1a10ade1026",
+          "frames": [
+            {
+              "id": "e91657d2-c289-498a-a53f-61f4e43e0b8b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "80b4e9d1-2758-47d8-a909-d3b96e197412",
+          "frames": [
+            {
+              "id": "8f2372b7-f1a5-4938-85a8-48b389281c60",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "UNT_110122 x4 portraits and doodies.png",
+  "checksum": "e16fd45f5ec535ae85a1610d935e2a2289ec484b"
+}

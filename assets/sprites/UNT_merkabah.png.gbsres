@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "e344ece1-842f-449c-aba4-07d687c17314",
+  "name": "UNT_merkabah",
+  "symbol": "sprite_unt_merkabah",
+  "width": 192,
+  "height": 192,
+  "states": [
+    {
+      "id": "699382f5-dd88-4ca8-8b85-ccf2db8438dd",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "b2bb00dc-8e62-48e0-b163-ee82ec249870",
+          "frames": [
+            {
+              "id": "b71f740a-f7e7-4cfb-8e19-963a7cef0110",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "87a11ccb-3aa3-427c-844e-ed584f8f6eca",
+          "frames": [
+            {
+              "id": "ce69a3cc-edae-4089-bc22-f0e9a45d0824",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "abd2fbe9-fd57-4517-a9ba-3c46197c1e4a",
+          "frames": [
+            {
+              "id": "782a7082-3eb8-4747-a97a-f95cdfb08572",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ec13a5f5-4627-4086-bba0-31aa0bc734d6",
+          "frames": [
+            {
+              "id": "67f15ba6-6a88-438b-b44c-de50465ebed3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "aeee80bf-0ed5-4601-bcc0-d36fcea527b3",
+          "frames": [
+            {
+              "id": "e9a8a9f9-14df-46b8-90af-ab42795a39c7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8b6d9a56-19e3-49ff-8098-733eeda3051b",
+          "frames": [
+            {
+              "id": "28f86171-60a5-485f-a246-0011e086cd03",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9e3c469b-d71b-455c-9730-8a41f82cad4f",
+          "frames": [
+            {
+              "id": "2e9f53c0-4de1-44cb-ba0c-6008bacae071",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d2c44060-cb21-4225-9b43-d7a9d481fe13",
+          "frames": [
+            {
+              "id": "19a5c7d1-3a00-4387-8474-256717a06565",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "UNT_merkabah.png",
+  "checksum": "6687fc84f40677351260ecf9da8e01e40ef8c7cf"
+}

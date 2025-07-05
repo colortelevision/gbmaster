@@ -1,0 +1,181 @@
+{
+  "_resourceType": "sprite",
+  "id": "a9c26f06-6576-49b1-bf6d-7cc4bbdb83c6",
+  "name": "UNT_Mattrpglight",
+  "symbol": "sprite_unt_mattrpglight",
+  "width": 48,
+  "height": 16,
+  "states": [
+    {
+      "id": "5cc3fd28-6411-4140-83f6-746afd84f29e",
+      "name": "",
+      "animationType": "multi",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "74123c4d-02a7-4bee-bf9b-0f91c16ea1d9",
+          "frames": [
+            {
+              "id": "0c866b41-6045-4f0a-b7c0-efa12324f565",
+              "tiles": [
+                {
+                  "id": "3212f96a-72fa-44fb-ba03-3479296c5ec5",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 32,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "81fdd68b-e5d3-49d8-bbdd-34d633bfcc9d",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 40,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4597d217-c172-4b05-95ff-905439d3b027",
+          "frames": [
+            {
+              "id": "7ca0115d-d0e5-4374-930c-2b5af54dd897",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fd99a496-0425-4f9a-a266-a9978aea035c",
+          "frames": [
+            {
+              "id": "3fbba195-9358-454e-a538-6e7a119e29b5",
+              "tiles": [
+                {
+                  "id": "2fa5f480-b221-4e30-8af5-10230212a0d4",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "5b6f8c83-f0fc-4aa0-af1f-96c937851c21",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0a7dd44b-be21-4c1c-992a-9bd5c95ff543",
+          "frames": [
+            {
+              "id": "0d21d812-1056-480e-8e3e-899e2407b840",
+              "tiles": [
+                {
+                  "id": "7d1baee7-cb4f-4f8b-88bf-4b8ce267e246",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "25392111-d578-46fb-b56f-b6cf7d0e2a0c",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5bc40b6e-a446-4b25-8d39-da61cefc1b46",
+          "frames": [
+            {
+              "id": "bd4664a6-5251-48dd-9520-12cdff06796e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9d7ce42c-55d4-4b1f-92ab-818f91964a32",
+          "frames": [
+            {
+              "id": "03ab4308-4258-437e-96c2-2bb5c539e478",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d961247e-d50a-4a07-a723-88df7fd2194d",
+          "frames": [
+            {
+              "id": "5d536144-260a-48db-9b23-c288d11e3013",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "20619a7b-d892-43ad-a86a-01b7c6982d58",
+          "frames": [
+            {
+              "id": "036ea39c-423d-42d6-ac96-b93574dfe33c",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 6,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "UNT_Mattrpglight.png",
+  "checksum": "2798d2c3413424fa3cd92aac626836c018bfc865"
+}

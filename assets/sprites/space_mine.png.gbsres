@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "c96ed5bc-84f1-43c0-8fa6-88684e7846b3",
+  "name": "space_mine",
+  "symbol": "sprite_space_mine",
+  "width": 64,
+  "height": 32,
+  "states": [
+    {
+      "id": "7a70d445-7790-4a29-a4a2-e640827e6de9",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "629f4932-7008-4e8d-9f92-76abe62f0b88",
+          "frames": [
+            {
+              "id": "12f95af2-9797-40ba-9a3e-f95f84aff8a1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "740d74ad-87da-4315-9fa8-9afe40141b94",
+          "frames": [
+            {
+              "id": "6f3826f6-57b3-4c64-a3fc-9938d377ab95",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "25983750-1204-4257-866d-d92e3e475229",
+          "frames": [
+            {
+              "id": "5b463805-aca5-4226-bc55-f8b1c9ef71d3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "084de98f-cad5-4fdf-a7e2-c95eb89baed6",
+          "frames": [
+            {
+              "id": "20f9650d-4f01-4ec2-8e08-53242ba8fa4b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e559c07d-b880-4f3b-8b2b-72623c4ce6cd",
+          "frames": [
+            {
+              "id": "fcc96fee-66b3-411c-8502-6f5cf574869c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "aad4aa51-6d9f-4513-b6a0-a192bf0970a1",
+          "frames": [
+            {
+              "id": "5de18532-9bf8-4e95-b4df-64748cd9855a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b1a0330f-7825-4b7e-a294-80edd71e32f1",
+          "frames": [
+            {
+              "id": "cdf82f5e-c07e-40fa-be14-c956f9395e2a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bcd7cf81-f8aa-4667-8a2e-6325b4e1cb00",
+          "frames": [
+            {
+              "id": "5d1aabe4-0ecc-47d1-8935-9436fe184e36",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "space_mine.png",
+  "checksum": "287419e44a11c4a58732ef5ea7b0c51709be3279"
+}

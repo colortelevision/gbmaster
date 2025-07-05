@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "89c0a079-7993-4266-8769-c4f85cfef0bd",
+  "name": "elephant",
+  "symbol": "sprite_elephant",
+  "width": 504,
+  "height": 48,
+  "states": [
+    {
+      "id": "d47b630a-211b-4050-98d3-a1d426a9dda2",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "b8785ce7-f0d8-4ff9-aeee-e39fdfa00efe",
+          "frames": [
+            {
+              "id": "3ffed362-3609-447f-8f19-45289fd1233f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "90db5c48-45a2-44d2-9a13-f55e0e3e3fe0",
+          "frames": [
+            {
+              "id": "9faa0702-686e-4e4a-b917-e4d56ddd1171",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b238537e-de19-4a03-9ba8-6e3bcaa6bd74",
+          "frames": [
+            {
+              "id": "e7d44ced-d7f2-4cee-930d-0fba2840d9e8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7da6a25c-3ea6-4255-a209-97149dde66fe",
+          "frames": [
+            {
+              "id": "24dfb47a-afad-4176-bb00-cec8939ee2f9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0fa0ff5e-35d5-4481-b379-f91ce257dea3",
+          "frames": [
+            {
+              "id": "b58e4a5f-e313-4c7b-81e5-104eb54eae16",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3aaedf62-f233-405e-8e02-0a080a1e0085",
+          "frames": [
+            {
+              "id": "452561db-c01d-49d5-b311-a713ed5fd4d6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8b941b3d-6317-4f53-879f-720e9cc3ee2b",
+          "frames": [
+            {
+              "id": "956ea9d3-f899-44fd-ab86-3cbed06c8730",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9f8795a1-98ba-48e5-b850-d99df4cfc9dd",
+          "frames": [
+            {
+              "id": "8776f6f0-d2cb-4e2c-8848-c4208494da13",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "elephant.png",
+  "checksum": "60284e758421739af1e232f7b70eaf126d4c7610"
+}

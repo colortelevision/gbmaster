@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "fd45355d-bf1c-402e-b727-f0b872abd447",
+  "name": "CHAMBERS-ENTER1",
+  "symbol": "bg_chambers_enter1",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "tileColors": "01168+",
+  "filename": "CHAMBERS-ENTER1.png"
+}

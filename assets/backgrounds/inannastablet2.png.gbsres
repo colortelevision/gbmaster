@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "0baff585-5c08-422c-b71e-9f4b13b44118",
+  "name": "inannastablet2",
+  "symbol": "bg_inannastablet2",
+  "width": 20,
+  "height": 15,
+  "imageWidth": 160,
+  "imageHeight": 120,
+  "tileColors": "0012c+",
+  "filename": "inannastablet2.png"
+}

@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "f7fb7824-42e5-4e6f-a023-16ae3aa06beb",
+  "name": "IRL_110922 beach dinosaur",
+  "symbol": "sprite_irl_110922_beach_din",
+  "width": 64,
+  "height": 64,
+  "states": [
+    {
+      "id": "2733bc02-d7c0-45ac-bf60-e43d1d90c386",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "ceead5fd-9c8f-4513-b997-5345e824b4aa",
+          "frames": [
+            {
+              "id": "4097170d-75b5-4398-88ae-4dd73f921a86",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "152da8d8-a23b-4d26-8836-4384cb6a4bf0",
+          "frames": [
+            {
+              "id": "ced402ad-8ee5-473a-a3bd-6ef371b5a840",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fa8bc084-5a42-4339-9b3b-8450714c34a2",
+          "frames": [
+            {
+              "id": "12786130-0dd7-4ff1-aabc-d350b57b8790",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5d29cb3a-d15b-4d4b-84cd-114aceef159e",
+          "frames": [
+            {
+              "id": "7ea7fd20-83d9-4730-a991-eef917a8d169",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0b5e11d3-646f-47fa-9dd7-806584b1feb6",
+          "frames": [
+            {
+              "id": "c4f60bd5-5fff-412a-a924-c126b13c92f2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9d1231dc-8729-4e38-9128-dedfb0cccf65",
+          "frames": [
+            {
+              "id": "2720839d-744c-417e-9bc2-5f24dce646d6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ce239b2c-b04f-4fe9-a025-79b181b4c5ce",
+          "frames": [
+            {
+              "id": "5f968313-e9ca-42d9-a02d-d990d4851019",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d2203adb-be3f-40e2-8a36-21054c91f58c",
+          "frames": [
+            {
+              "id": "dd8cbe97-831e-4b08-9729-a91dfd8a1268",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "IRL_110922 beach dinosaur.png",
+  "checksum": "4c91ec2b676ff775fc85272d28dd22f7a0df39bd"
+}

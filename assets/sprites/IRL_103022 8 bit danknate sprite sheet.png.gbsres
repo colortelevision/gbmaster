@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "004e2270-1c68-477c-a6d6-aedcfe990a01",
+  "name": "IRL_103022 8 bit danknate sprite sheet",
+  "symbol": "sprite_irl_103022_8_bit_dan",
+  "width": 96,
+  "height": 32,
+  "states": [
+    {
+      "id": "9c860b0a-8ff5-43b8-936a-f7509ba1f580",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "22b66d3a-8da6-4c52-b97b-bd492cb7a0f2",
+          "frames": [
+            {
+              "id": "d2e7280e-c114-4b8c-bb80-2c24f536c5aa",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fac2ee0e-d893-48be-a225-fe75877d1977",
+          "frames": [
+            {
+              "id": "61e86712-227b-43aa-a9e2-4326c35a3202",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "497081e2-7d38-46d6-9353-a7a6a52a1ef9",
+          "frames": [
+            {
+              "id": "a80a47a9-97dd-475f-83f7-ca46e1915226",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a7d6ecc8-26c1-4d1f-8bbd-d671588f8aed",
+          "frames": [
+            {
+              "id": "87c51f62-5288-4f9c-922f-46cd709bc0ca",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0306e440-170e-4104-8f3c-186e611f7760",
+          "frames": [
+            {
+              "id": "06ac751f-959e-4abe-8c31-c8d164553c2c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8e268f2c-6369-474d-991a-21a871bbea6a",
+          "frames": [
+            {
+              "id": "300da6f3-af23-4c16-9d6a-8478164d97e6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a163e1dc-2ea7-4838-9c5f-3445c40f7083",
+          "frames": [
+            {
+              "id": "66b03f79-e3c6-4156-b1d8-33bb5741f8ea",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "67f8139f-3178-4eea-b4de-c79e214a0a44",
+          "frames": [
+            {
+              "id": "74071e9f-21b1-42b3-a16b-5d4a858b619f",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "IRL_103022 8 bit danknate sprite sheet.png",
+  "checksum": "cd730c4498e707846133a90fca6d6356307760e7"
+}

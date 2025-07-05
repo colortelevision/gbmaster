@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "1b3f7a01-1e6f-445e-b6db-c91ab19b7400",
+  "name": "SD_Cricket combat format 64x64",
+  "symbol": "sprite_sd_cricket_combat_fo",
+  "width": 64,
+  "height": 64,
+  "states": [
+    {
+      "id": "34c3e362-e913-4d97-b2c2-1a77b0c338bd",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "32eb5271-489c-4a72-8801-034693da71e2",
+          "frames": [
+            {
+              "id": "d7d0a112-5257-4d52-a7e2-bc7031a2cb11",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f11a8fe5-f33b-494f-bdc5-310b355a4fea",
+          "frames": [
+            {
+              "id": "e6b444ea-907e-43cd-a056-199ee0b9c716",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f1f5762b-0538-4281-8cf1-cb640eadf78d",
+          "frames": [
+            {
+              "id": "3e0fbb45-7369-419e-a1a6-295f0cf98c0a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d62a8e90-9ee2-4602-b342-8971e41448e0",
+          "frames": [
+            {
+              "id": "813e54b3-8a6e-42c1-b50b-eec13a0a89d9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c7bdd920-f0f2-4565-8295-f68a85c29ba6",
+          "frames": [
+            {
+              "id": "4a5571b1-aa07-41ff-bf16-2cf075d297a0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "375ccb59-0873-47ff-acbd-d84bd5883b85",
+          "frames": [
+            {
+              "id": "5e40d959-e11a-41fc-bd5d-bd8ba62457f2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "284ac99e-66b3-42d5-a7c8-729c96804dda",
+          "frames": [
+            {
+              "id": "db0c3dfb-de25-44b5-8577-0ea2d47d71a7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "db08294e-3190-466d-a6f0-344b3891e7e8",
+          "frames": [
+            {
+              "id": "4f0aaadb-0c1b-4bb9-8a0b-897f1aa5649c",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "SD_Cricket combat format 64x64.png",
+  "checksum": "1fa9747ee8e72c5f05f8fd0caa648505c2f3c452"
+}

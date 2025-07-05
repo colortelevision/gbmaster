@@ -1,0 +1,99 @@
+{
+  "_resourceType": "scene",
+  "id": "892f2ad2-006b-4670-9531-88378d2daa54",
+  "_index": 4,
+  "type": "TOPDOWN",
+  "name": "Scene 5",
+  "symbol": "scene_5",
+  "x": 408,
+  "y": 30,
+  "width": 20,
+  "height": 24,
+  "backgroundId": "63400973-cbd4-4f60-980c-7102c8e53643",
+  "tilesetId": "",
+  "paletteIds": [
+    "",
+    "10af623f-c012-4f2e-a443-0c79dd1f6b78",
+    "default-bg-1"
+  ],
+  "spritePaletteIds": [],
+  "autoFadeSpeed": 1,
+  "script": [
+    {
+      "id": "73880f76-c07e-4bf7-80c5-8393f5685971",
+      "command": "EVENT_GROUP",
+      "args": {},
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_SET_VALUE",
+            "args": {
+              "variable": "0",
+              "value": {
+                "type": "number",
+                "value": 0
+              },
+              "__collapse": false
+            },
+            "id": "0afcab0f-6e1f-4b42-90af-d687f6b54e9b"
+          },
+          {
+            "command": "EVENT_MUSIC_PLAY",
+            "args": {
+              "musicId": "37bcadad-8334-4085-9d1e-4e747e0e28ef",
+              "__collapse": false
+            },
+            "id": "f166fa73-f975-4e74-9984-f1f6d65a5910"
+          },
+          {
+            "command": "EVENT_ACTOR_SET_STATE",
+            "args": {
+              "actorId": "42b54c49-3f5b-4f44-a65a-b72e729e94a1",
+              "spriteStateId": "",
+              "loopAnim": true,
+              "__collapse": false
+            },
+            "id": "07603327-e19d-4baf-81ff-b68c611ce1ce"
+          },
+          {
+            "command": "EVENT_SET_INPUT_SCRIPT",
+            "args": {
+              "input": [
+                "b",
+                "a",
+                "start",
+                "select"
+              ],
+              "override": true,
+              "__scriptTabs": "press",
+              "__collapse": false
+            },
+            "children": {
+              "true": [
+                {
+                  "command": "EVENT_CALL_CUSTOM_EVENT",
+                  "args": {
+                    "customEventId": "9f61ff47-ef0f-4c00-bca2-87be6c11a011"
+                  },
+                  "id": "546c6f19-51c0-4c49-a121-23cc72cee23a"
+                }
+              ]
+            },
+            "id": "fdb6be05-f884-43e9-b6f7-20cd34b6bde2"
+          }
+        ]
+      }
+    },
+    {
+      "command": "EVENT_ACTOR_HIDE",
+      "args": {
+        "actorId": "$self$"
+      },
+      "id": "96a7274e-9b69-425f-aa97-4fb4f6bc7c92"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": ""
+}

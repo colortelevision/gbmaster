@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "06490e14-4123-4fea-8978-d13426ba1846",
+  "name": "CTV_102122 tv man spritesheet",
+  "symbol": "sprite_ctv_102122_tv_man_sp",
+  "width": 64,
+  "height": 64,
+  "states": [
+    {
+      "id": "6e730602-ea60-4605-baa2-1a93291a594c",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "f814356d-a8cc-46da-9840-166cd854853b",
+          "frames": [
+            {
+              "id": "390dd4fc-e0c0-410d-b612-d226e3011b4a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a7f80733-9911-4623-a15c-289b880850a9",
+          "frames": [
+            {
+              "id": "28f2fc54-2769-4c7b-bd7b-cf065c95668b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "dd0dab35-3653-47cb-966d-48c2aac66958",
+          "frames": [
+            {
+              "id": "8613225d-ad16-4f57-8425-06e5430fc0ee",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "99dc3237-ed8c-4532-be32-0908639065ce",
+          "frames": [
+            {
+              "id": "b91f87a8-584a-4efa-84d0-08629c9a67a2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "977af49f-8a17-456f-b7fc-f486b1a4e94f",
+          "frames": [
+            {
+              "id": "809d5d66-3a95-49d9-a605-fa7243964bc6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0bf24bd0-8f65-4ff8-a978-335586adec86",
+          "frames": [
+            {
+              "id": "cafbf89d-8b89-46ab-b19e-d9ec432f8bd1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e7751e8d-6e1c-4671-aa08-be48c216e68a",
+          "frames": [
+            {
+              "id": "741a4bd2-e950-457a-92e6-55797cc0044d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7b01a3d3-29ba-4673-97d2-5a90646c6b5c",
+          "frames": [
+            {
+              "id": "6b6c272a-f767-420c-81fa-45f537666e09",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "CTV_102122 tv man spritesheet.png",
+  "checksum": "38b9ff2462ed36493da692ddb70587be0a6994c7"
+}

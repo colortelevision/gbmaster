@@ -1,0 +1,8 @@
+{
+  "_resourceType": "sound",
+  "id": "03dbc3a3-ca39-4f4f-99ea-d304588015d1",
+  "name": "teleport-gb_louder.wav",
+  "symbol": "sound_teleport_gb_louder_wa",
+  "type": "wav",
+  "filename": "teleport-gb_louder.wav"
+}

@@ -1,0 +1,8 @@
+{
+  "_resourceType": "sound",
+  "id": "9ed2f9d1-0683-4746-b44d-40bfe1753c73",
+  "name": "chomp-gb_louder.wav",
+  "symbol": "sound_chomp_gb_louder_wav",
+  "type": "wav",
+  "filename": "chomp-gb_louder.wav"
+}

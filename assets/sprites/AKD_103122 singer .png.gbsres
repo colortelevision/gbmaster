@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "1c910bfa-d0ef-4c68-a382-6e5568f38117",
+  "name": "AKD_103122 singer ",
+  "symbol": "sprite_akd_103122_singer_",
+  "width": 36,
+  "height": 64,
+  "states": [
+    {
+      "id": "b154c677-9030-4a66-8a2a-81481b1e7dff",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "5e38fc12-ec5c-4f11-8638-3005ad7f84d0",
+          "frames": [
+            {
+              "id": "d4ebf598-5d85-4e4d-828f-d3fa2a80c6d6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "008c44e3-8f97-43c6-a41a-70bc85de77da",
+          "frames": [
+            {
+              "id": "7e96f010-e10b-482e-9797-7377c3ca9b64",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "20bfdb62-00c8-47c7-b971-d13e595b60ac",
+          "frames": [
+            {
+              "id": "3eb8d834-ac05-4adb-a640-857f40ce7641",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "16359a39-fba6-4d0c-8a11-398fa8ff55f7",
+          "frames": [
+            {
+              "id": "247f5add-80fb-4f15-b0df-9d00a5e95e8e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d5a0e548-b6e8-44c6-99a7-5f3e782cb722",
+          "frames": [
+            {
+              "id": "07c29a4e-3f68-43df-8cb6-4bbeba013047",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "05d735d8-aea8-4dcf-968f-7217b33e8c18",
+          "frames": [
+            {
+              "id": "828cf635-c2cb-476f-bef7-29f795b46397",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "16d4cbd9-83f5-4c2e-a6f4-aa96d0950f92",
+          "frames": [
+            {
+              "id": "858c6eab-075c-4433-9a05-59a3a72ea4f5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d7c4d63f-9f7f-45f8-8435-caf73a6215af",
+          "frames": [
+            {
+              "id": "c52194da-78ea-4380-a5f6-ef566176b689",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "AKD_103122 singer .png",
+  "checksum": "dc719a5a00e8cb2492508fac235f15825c8de598"
+}

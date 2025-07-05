@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "e29f5cdc-3890-4d8a-b5b7-a363a9b42426",
+  "name": "UNT_Parker PKMN style ",
+  "symbol": "sprite_unt_parker_pkmn_styl",
+  "width": 20,
+  "height": 54,
+  "states": [
+    {
+      "id": "9ba30a7e-67c2-4f1e-910b-b5f376cff9a7",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "48c3967d-51b2-4360-aa2a-8265549713e0",
+          "frames": [
+            {
+              "id": "6d548915-c4a0-443c-9e0e-882b11208af0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c4c5ca3a-22a6-4ea6-a33c-376450354c77",
+          "frames": [
+            {
+              "id": "ebdecdb3-229d-4867-a6d9-29181c511721",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "585b3c4a-783d-45c9-99fb-00d9b1ff0e16",
+          "frames": [
+            {
+              "id": "3e9d4e80-0ec3-4b76-99e8-5f8b619a4323",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "cf2bd15a-30f0-47be-8afc-0602b9fad8d8",
+          "frames": [
+            {
+              "id": "3b2e6465-2c6d-4370-98e5-0173d1aba85c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "da3501f8-bd4f-45fa-80d9-86c94dfa1339",
+          "frames": [
+            {
+              "id": "3558ffdd-1138-41a9-9e2a-9bd84a229fad",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bc28ecf9-7ae5-4e90-af17-235d44063af7",
+          "frames": [
+            {
+              "id": "f6c5c8fe-3dba-4eba-9a04-2f19c15bf1d5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0669b015-5ec3-4192-a434-68b156dd38c4",
+          "frames": [
+            {
+              "id": "40342ebd-2f2a-43b3-bad0-406dc8708236",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9b44f2f0-9e80-4853-bb84-0e29897e7161",
+          "frames": [
+            {
+              "id": "20a7caaa-539f-4c1b-80a2-76e78c873959",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "UNT_Parker PKMN style .png",
+  "checksum": "fec0514c4104ae852c45bb7bff617baf4a6970e0"
+}

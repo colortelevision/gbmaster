@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "2712b288-70a1-440a-8d08-210d449542f8",
+  "name": "ami virtual merch dithered",
+  "symbol": "bg_ami_virtual_merch_dither",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "tileColors": "022+04d+027+04f+025+04f+025+04f+025+04e+025+04f+025+045+01!049+024+042+016+042+01!045+024+04!01b+044+024+01d+043+024+01d+043+024+01d+043+024+01d+043+024+01e+042+024+01e+042+024+01e+04!012+023+0111+023+0111+023+",
+  "filename": "ami virtual merch dithered.png",
+  "autoColor": false
+}

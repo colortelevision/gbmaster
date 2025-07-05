@@ -1,0 +1,79 @@
+{
+  "_resourceType": "script",
+  "id": "61afc51d-7022-4e12-a1a8-34af57ec9caa",
+  "name": "Script 1",
+  "description": "",
+  "variables": {},
+  "actors": {},
+  "symbol": "script_1",
+  "script": [
+    {
+      "command": "EVENT_SWITCH",
+      "args": {
+        "variable": "1",
+        "choices": 3,
+        "__collapseCase0": false,
+        "__collapseCase1": false,
+        "__collapseCase2": false,
+        "__collapseCase3": false,
+        "__collapseCase4": false,
+        "__collapseCase5": false,
+        "__collapseCase6": false,
+        "__collapseCase7": false,
+        "__collapseCase8": false,
+        "__collapseCase9": false,
+        "__collapseCase10": false,
+        "__collapseCase11": false,
+        "__collapseCase12": false,
+        "__collapseCase13": false,
+        "__collapseCase14": false,
+        "__collapseCase15": false,
+        "__collapseElse": false
+      },
+      "children": {
+        "true0": [
+          {
+            "command": "EVENT_PLAYER_SET_SPRITE",
+            "args": {
+              "spriteSheetId": "a9ec6792-bb2b-4c01-8823-57d48e7995e7"
+            },
+            "id": "33949057-e41e-45b9-b5de-c388f1e6062a"
+          }
+        ],
+        "true1": [
+          {
+            "command": "EVENT_PLAYER_SET_SPRITE",
+            "args": {
+              "spriteSheetId": "56044e25-3bc2-4a29-a5bb-19e1be25e8a8"
+            },
+            "id": "8332d309-e555-4fe7-bb49-6f56adb2375a"
+          }
+        ],
+        "true2": [
+          {
+            "command": "EVENT_PLAYER_SET_SPRITE",
+            "args": {
+              "spriteSheetId": "eaa8102b-32a6-4b65-bdbe-b4062b21af4f"
+            },
+            "id": "1e82e00c-51cf-4edd-ab83-673e445a35fc"
+          }
+        ],
+        "true3": [],
+        "true4": [],
+        "true5": [],
+        "true6": [],
+        "true7": [],
+        "true8": [],
+        "true9": [],
+        "true10": [],
+        "true11": [],
+        "true12": [],
+        "true13": [],
+        "true14": [],
+        "true15": [],
+        "false": []
+      },
+      "id": "5a92d4d9-61b8-4440-bd90-0734755a04bf"
+    }
+  ]
+}

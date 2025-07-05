@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "8a8b5a71-2a34-4d35-8274-0e2761c521ed",
+  "name": "HJHJ",
+  "symbol": "sprite_hjhj",
+  "width": 22,
+  "height": 34,
+  "states": [
+    {
+      "id": "ee4c20d1-d30e-415f-9514-eb32d25cbdd8",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "ddf9d059-ab13-4aae-8d6b-63825ecb9872",
+          "frames": [
+            {
+              "id": "d10116cd-4022-4a17-bb70-a21802657afe",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "eebdf465-5e00-4c9f-81ef-48fdf70a380c",
+          "frames": [
+            {
+              "id": "29a5d6ec-ff46-4b83-aa0a-1b6efbebbf8e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "43388fc4-d5d5-4b7b-b983-564597f99bb4",
+          "frames": [
+            {
+              "id": "bac8bbec-5caa-4226-b74b-b766fba2710d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "694aef52-d2c9-46bc-af6f-0de2d38b766e",
+          "frames": [
+            {
+              "id": "3c960c94-9667-404d-8a22-d7d0789a89d4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "59204a26-2bfc-4fa8-82a4-5b9671d1079c",
+          "frames": [
+            {
+              "id": "ab38cd99-8224-41f9-a94c-935dc35965be",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "50a0aea6-d062-4e3f-9ebe-8546bf126b0e",
+          "frames": [
+            {
+              "id": "da14ded6-bf03-453b-a33e-b80c042d3dbe",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "620b6e84-3c42-44cc-942c-23ee4f22f269",
+          "frames": [
+            {
+              "id": "9050c86f-ac3e-4141-8fef-956ebdf53fca",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5987a267-a1a9-4878-b6a5-f9d9e414cb68",
+          "frames": [
+            {
+              "id": "4a14ac7e-7dbb-49e7-bb2b-f6d9e4dd6878",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "HJHJ.png",
+  "checksum": "7f357f5a3107aabf1cd123baa86b98ddb907f931"
+}

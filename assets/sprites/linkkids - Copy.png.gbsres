@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "26c96e48-12f3-4fa6-883c-fe5ca0de270e",
+  "name": "linkkids - Copy",
+  "symbol": "sprite_linkkids_copy",
+  "width": 16,
+  "height": 32,
+  "states": [
+    {
+      "id": "a0493864-a1f3-48d6-9719-2a6e0e56954e",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "fae1a8b3-17c9-4268-94bc-cecf2eb8e937",
+          "frames": [
+            {
+              "id": "5e95a38f-7d4f-4b4e-aa41-2da8fdc94ec5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "97a18108-441a-44f2-a431-7d3e28f17e3f",
+          "frames": [
+            {
+              "id": "cdb77a8a-4672-41d3-b78f-1e62aa10a8c7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b51799bc-036e-4cd6-85bb-e6aa6604d4ef",
+          "frames": [
+            {
+              "id": "6c66e94a-8052-4d1b-86b5-762cf34538f0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "307e6e71-9415-4f65-8d10-872eb6f5af33",
+          "frames": [
+            {
+              "id": "da7f49c4-141a-48c8-8cd1-eb7a0aa61775",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "109a3d9a-f156-4e15-9376-58fb3081833e",
+          "frames": [
+            {
+              "id": "c11c45ac-cbd5-430f-affa-cedaac47cf39",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e913057b-a012-4468-8088-4cf689d548eb",
+          "frames": [
+            {
+              "id": "1228a3d2-0eb8-4db6-a85b-0250f0c2e1a7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2e30222b-c7b6-4833-9fc3-3ef2e97b7cb3",
+          "frames": [
+            {
+              "id": "28bd0347-23b3-46aa-8dc9-53d506af0c65",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7bde0b63-3c57-401c-91a7-5fdf2f7263a6",
+          "frames": [
+            {
+              "id": "3e1b337b-1be1-4f1d-86ee-1f5683a58675",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "linkkids - Copy.png",
+  "checksum": "48db2fd48a96ace61213c006e78693072fe4f246"
+}

@@ -1,0 +1,90 @@
+{
+  "_resourceType": "variables",
+  "variables": [
+    {
+      "id": "0",
+      "name": "bump",
+      "symbol": "var_bump"
+    },
+    {
+      "id": "1",
+      "name": "assWhoooped",
+      "symbol": "var_asswhoooped"
+    },
+    {
+      "id": "63ed9f72-094f-4793-ac1b-99ecb7199a3a__L0",
+      "name": "Local 0",
+      "symbol": "var_local_0"
+    },
+    {
+      "id": "1b80887c-f06d-4a1f-a182-4ecfc5b88eb6__L0",
+      "name": "assWhooped",
+      "symbol": "var_asswhooped"
+    },
+    {
+      "id": "7791b73d-4ea8-4836-aac6-ae2362e74733__L0",
+      "name": "gps",
+      "symbol": "var_gps"
+    },
+    {
+      "id": "7791b73d-4ea8-4836-aac6-ae2362e74733__L1",
+      "name": "foeDoodyCount",
+      "symbol": "var_foedoodycount"
+    },
+    {
+      "id": "7791b73d-4ea8-4836-aac6-ae2362e74733__L2",
+      "name": "playerDoodyCount",
+      "symbol": "var_playerdoodycount"
+    }
+  ],
+  "constants": [
+    {
+      "id": "ef9736f2-35fe-4b15-9ad7-7539fb0f4a9d",
+      "name": "CHAR_MATT",
+      "symbol": "const_char_matt",
+      "value": 1
+    },
+    {
+      "id": "c1c8f2fc-a649-4d92-bc99-e554b40afe35",
+      "name": "CHAR_CONNER",
+      "symbol": "const_char_conner",
+      "value": 2
+    },
+    {
+      "id": "dea4d9d1-f1b2-43f2-864d-54799362e764",
+      "name": "CHAR_AMI",
+      "symbol": "const_char_ami",
+      "value": 3
+    },
+    {
+      "id": "73a53f4d-bfec-48cc-8716-972fc081a34e",
+      "name": "CHAR_PARKER",
+      "symbol": "const_char_parker",
+      "value": 4
+    },
+    {
+      "id": "d6da6231-8fbb-4811-a868-c1967be032e5",
+      "name": "CHAR_02",
+      "symbol": "const_char_02",
+      "value": 5
+    },
+    {
+      "id": "13f1e277-e09f-4b03-827c-a325eca485e2",
+      "name": "CHAR_LIZ",
+      "symbol": "const_char_liz",
+      "value": 6
+    },
+    {
+      "id": "ba01fcda-2613-4306-9014-34fb85d89a7c",
+      "name": "CHAR_RYU",
+      "symbol": "const_char_ryu",
+      "value": 7
+    },
+    {
+      "id": "2e33540e-55c2-47e3-b751-ef30d9b69013",
+      "name": "CHAR_ORLANDO",
+      "symbol": "const_char_orlando",
+      "value": 8
+    }
+  ]
+}

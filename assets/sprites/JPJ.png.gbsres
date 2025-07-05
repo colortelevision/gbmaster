@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "30d965b8-ed3e-4f85-b967-bf31603f3dd3",
+  "name": "JPJ",
+  "symbol": "sprite_jpj",
+  "width": 43,
+  "height": 39,
+  "states": [
+    {
+      "id": "fd2b534d-6217-4930-9af7-c6a89098674e",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "58b065a0-ecc4-4d93-a941-34dc6119bdf0",
+          "frames": [
+            {
+              "id": "6235ceb2-2333-48ca-96be-2ff37387a925",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6d07ae1a-fd52-4b48-a0f7-fead2851f6c0",
+          "frames": [
+            {
+              "id": "8ce0ed1d-3fe4-4c17-b2c9-1bd5868b3014",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2f75f97b-8d88-45f7-9b42-5e36bf924cee",
+          "frames": [
+            {
+              "id": "476a92ff-6280-40ba-825c-ea83a780903d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "056bcbd7-ae74-4cf7-a66a-400112fa54be",
+          "frames": [
+            {
+              "id": "b6b14e93-7ed3-41ef-aa38-f19b14b8d39d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1bf45d87-99cc-42c7-b334-afbfa03cc529",
+          "frames": [
+            {
+              "id": "130e6caa-fb36-411a-b1f9-065d9e32b587",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c4e8be9e-9d34-43d8-937f-12ff022293d4",
+          "frames": [
+            {
+              "id": "8a963a8a-f04b-40cc-96eb-8ae1ff1dcb63",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "78ace34d-e681-4021-9643-66f230832e27",
+          "frames": [
+            {
+              "id": "f8af1502-022d-484a-a4ab-b4f9f692e1e2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "233c82b5-95b6-4168-a3a7-cf02490edf1c",
+          "frames": [
+            {
+              "id": "1f6fb1bc-213b-4429-a3fa-67363d482104",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "JPJ.png",
+  "checksum": "c0bca9c52f637d40842a12264e83877ee7a81794"
+}

@@ -1,0 +1,127 @@
+{
+  "_resourceType": "sprite",
+  "id": "5bdf8e61-1416-4796-ba1a-61d8fcb810bf",
+  "name": "X3D_112022 max sprite art",
+  "symbol": "sprite_x3d_112022_max_sprit",
+  "width": 16,
+  "height": 16,
+  "states": [
+    {
+      "id": "edd0844f-c004-4efb-a3bb-6e5da32661f3",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "ab94eda0-1298-4d88-b0c5-9f26319b814a",
+          "frames": [
+            {
+              "id": "ca0876bf-a065-441a-acfc-36b111f7c31c",
+              "tiles": [
+                {
+                  "id": "f98e4496-98c7-4456-bd7a-15c75e0274f9",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "b1d4c49f-6c68-4db5-b72c-f701742671df",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3d113012-5b11-44c2-a4ab-3b73513953ce",
+          "frames": [
+            {
+              "id": "713fe6ba-b7b3-444b-b0e2-b64167f7567d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "de61cf62-e7a1-498e-8d0b-f8752aa2e0c7",
+          "frames": [
+            {
+              "id": "56791241-3b0c-4ab9-9698-3e22d4988b8b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ed85c4e6-110d-4d3d-a14d-90bbae1f46e4",
+          "frames": [
+            {
+              "id": "01f31df2-5c8d-4f19-bc61-3bfada13f168",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5fae1a0e-9f13-4a11-b10a-d7a83438c230",
+          "frames": [
+            {
+              "id": "11000fca-a9e2-4ed6-b576-6764ddc0c056",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "da9c4985-f5d7-4d8b-aa45-96a5b6418e30",
+          "frames": [
+            {
+              "id": "6f7eee42-8aad-4c2a-9df0-2d21a3efbf15",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "adcf7079-28d5-4ff2-a7cf-c890a0c2f119",
+          "frames": [
+            {
+              "id": "519e18c3-98b3-459d-9235-18914ddf6c05",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ea022f32-c15c-4529-9e6d-249727715012",
+          "frames": [
+            {
+              "id": "fddf5785-0996-48ce-a9b9-bc44d7d6cf11",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "X3D_112022 max sprite art.png",
+  "checksum": "1da96d17f82637dfc87cacedb62812d2362802a5"
+}

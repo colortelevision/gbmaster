@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "d22ca2f6-128a-4cf0-b345-47b9fd9769b8",
+  "name": "IRL_dankgamer",
+  "symbol": "sprite_irl_dankgamer",
+  "width": 32,
+  "height": 32,
+  "states": [
+    {
+      "id": "ea72b0cc-f5d1-4b30-9fb5-6efaa153be4e",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "f6a807cb-7d4e-4d68-b374-cb7e7dbbb908",
+          "frames": [
+            {
+              "id": "b489e23c-9a65-493a-8f4b-562d8b0c19c9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4820c831-1f4c-4f13-a955-047829fbf6be",
+          "frames": [
+            {
+              "id": "f37a8328-f366-4152-b2d1-4a6cb4e1e2b9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "87ec4a58-35d5-49dd-8756-0b999a9a5f6e",
+          "frames": [
+            {
+              "id": "bf9ba5bf-6102-4842-b86f-fe77eb434c19",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a2fd5554-da46-46b9-9ebb-ae688102f04c",
+          "frames": [
+            {
+              "id": "5e64bc63-6758-4385-92ce-9209bdc4efdd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "11816a2d-8bb2-48ee-968e-e8fef23f4785",
+          "frames": [
+            {
+              "id": "b3113523-08d2-4962-bff6-024b35f0cdc7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "08ec649f-bc91-44e6-ae67-3caf8177d277",
+          "frames": [
+            {
+              "id": "fd0c1834-b21f-40a2-b5ff-ba69bf229d2f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "cc700dae-4a56-4b56-bad4-afb5aff03286",
+          "frames": [
+            {
+              "id": "0b293800-7bd4-45e7-85d6-402aff2d4ced",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "99e52727-1c60-440f-a784-0f1c1d3c74ae",
+          "frames": [
+            {
+              "id": "ec6bf95b-03a7-40c2-8883-eeedf7e30f45",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "IRL_dankgamer.png",
+  "checksum": "8ca1453739a18245b0a6947cf007c833986a1d89"
+}

@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "afcd7658-a645-4c3a-b1de-36083ac6b90b",
+  "name": "DJ_mp3 spritesheet",
+  "symbol": "sprite_dj_mp3_spritesheet",
+  "width": 16,
+  "height": 64,
+  "states": [
+    {
+      "id": "99eb703c-3b41-4cdb-9a75-46840057a685",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "b72cd2ef-2d01-4914-b14b-6405c471e2a5",
+          "frames": [
+            {
+              "id": "4968fd49-da68-4754-b158-7ebe72ce54f3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8a0b245f-4c7c-4126-9f28-a631dddae098",
+          "frames": [
+            {
+              "id": "677657bc-468f-4bec-949d-781a29555e7e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "dd379739-1d7c-48a2-a40e-b187efba5815",
+          "frames": [
+            {
+              "id": "3b0e5b6a-02f8-4ff3-8d52-8c3a071a5827",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9feda76a-726c-4f92-9e9b-d0b45ef4b3a6",
+          "frames": [
+            {
+              "id": "07c67fc6-bdb7-4459-aa15-4ff039c44c8a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c42c555a-8d83-4867-81f3-61495a53737a",
+          "frames": [
+            {
+              "id": "9789d017-dc93-4a06-a22a-218fd83bd38c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "06c4c2de-d456-43e0-b4ff-8a54745fbc44",
+          "frames": [
+            {
+              "id": "b6d36d1c-a9c5-4c9b-9dd1-efc6a048ded9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3e0caf9e-dc1e-49ee-8b3b-521582341d8c",
+          "frames": [
+            {
+              "id": "318ebae4-c64c-4f61-b077-2f23a99ae3e3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e047f548-d66c-4214-825b-5516dcea37e0",
+          "frames": [
+            {
+              "id": "d1fc7411-39e4-4105-898f-46fbecf18d33",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "DJ_mp3 spritesheet.png",
+  "checksum": "e7afbe0faa796ebd879ebf502f519073a2296723"
+}

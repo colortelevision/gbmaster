@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "489b7dc9-5bb5-4370-8acc-d1fdb7b3cd79",
+  "name": "GV_calm clam px gameboy",
+  "symbol": "sprite_gv_calm_clam_px_game",
+  "width": 32,
+  "height": 30,
+  "states": [
+    {
+      "id": "0a7c6bd4-973c-40ab-9f78-83c0f2e06acf",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "5ba661aa-764d-471f-af29-1a2df97dd5e2",
+          "frames": [
+            {
+              "id": "159bcc62-12d1-4f2c-9e36-8843d64964ea",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a8756ceb-98a6-44a4-8aff-df3412d00fd9",
+          "frames": [
+            {
+              "id": "ad1e7093-52c6-4914-850f-b0cbb483990b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b96c4aad-5478-43c4-8b82-507b04cb63d6",
+          "frames": [
+            {
+              "id": "b6bca5be-9d40-41fd-9d6a-be1f273e6ec0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "658d6d25-5388-4bd9-862f-ed1642ac1200",
+          "frames": [
+            {
+              "id": "c802a52d-c6bb-4e33-9a40-eed2f67c0c8b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c5d825ba-5e5f-4b59-b8af-e4e36c20717a",
+          "frames": [
+            {
+              "id": "ec3cbf4d-01b6-4928-b58f-19f61806198e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "14ba30e3-deb1-426f-9095-a54ed09e542c",
+          "frames": [
+            {
+              "id": "811851ce-78af-412a-830c-4eefffd467b8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0a8fc2f0-32f3-4d6a-a7ff-7ef4aef4c060",
+          "frames": [
+            {
+              "id": "3c04cc14-b9ba-4c88-9cb9-ca2ba9f660d8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "91f380a4-5c3b-472c-b349-d9fbad4594a9",
+          "frames": [
+            {
+              "id": "a7efb758-bc09-4d99-a376-b53d47f30158",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "GV_calm clam px gameboy.png",
+  "checksum": "588ad10f1a68b1a63e29323729c51ba7b44fed83"
+}

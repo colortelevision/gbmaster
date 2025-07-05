@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "bae6a3fb-7a0f-4a61-afea-a3dac681c15c",
+  "name": "UNT_ORLANDO_RPG",
+  "symbol": "sprite_unt_orlando_rpg",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "383f3fcb-bcf0-4fc4-bc9f-526409f93825",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "22c02356-7399-4918-a169-c1c70c78c17e",
+          "frames": [
+            {
+              "id": "64eaeb61-d959-47de-bb94-25b54c702e8a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a5982d33-4339-453e-8959-2373da3a113a",
+          "frames": [
+            {
+              "id": "ef25a746-203d-447d-b4b6-91a9deeb0be9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c6f4ea38-927f-4294-ae98-0a578cec77f1",
+          "frames": [
+            {
+              "id": "b95751ba-8209-4f4f-b8b9-3363e8c81911",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "756a2110-abaa-4adf-99d3-40bab9fbd145",
+          "frames": [
+            {
+              "id": "afa6b676-3118-4ea7-8631-5308d1587d62",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a1cf0a17-4c97-4fdd-8680-63f679fe18ea",
+          "frames": [
+            {
+              "id": "22daec5c-062f-42e4-b20e-5a5de28775d8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "92b18204-f9b2-446c-ade3-03127a562f9f",
+          "frames": [
+            {
+              "id": "6828cf63-7f53-412c-8c68-cbcf84a1e44e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "212a7ba2-dd85-46eb-9121-abbc4a5261c1",
+          "frames": [
+            {
+              "id": "f78e5fe4-5af0-4d7c-9f3a-aebf5f40b013",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "251ee498-df11-4960-b58e-b2f7bd2908b1",
+          "frames": [
+            {
+              "id": "fbd942ba-cf2e-496f-b8dd-38d70522b08e",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "UNT_ORLANDO_RPG.png",
+  "checksum": "959f7d8cedca422d8c6343deea807d3a154a3f93"
+}

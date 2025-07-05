@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "2c1c6cf6-efcc-4c1d-94d5-f1a79e36f76f",
+  "name": "IRL_JAGS",
+  "symbol": "sprite_irl_jags",
+  "width": 32,
+  "height": 32,
+  "states": [
+    {
+      "id": "3aefcd3a-3ce9-45d0-bd57-78cb3ce414f0",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "e6d936c6-4823-435a-85b4-6b47c6baefc1",
+          "frames": [
+            {
+              "id": "c87b042d-f7aa-4c9f-a89e-02b50ec42430",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d896246e-83e6-4907-bf91-14d0ca38123d",
+          "frames": [
+            {
+              "id": "73c6670d-7bef-4c4d-a938-44178025b0d0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9467cdae-7f03-47ad-9452-ea742b00db8e",
+          "frames": [
+            {
+              "id": "e2b801e4-0d58-465e-aec5-a2962edbee9a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "cbfb05d8-5c07-4110-8e4b-3a8b369763f2",
+          "frames": [
+            {
+              "id": "59fee633-1171-4900-b54b-78aa8f67475a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e98f124c-cfa3-4608-993f-bbe9ea0483ea",
+          "frames": [
+            {
+              "id": "73abd27e-44a7-4d08-8434-55034133626b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9f7f8e0b-9202-454b-9ca2-d74e74d356cd",
+          "frames": [
+            {
+              "id": "57ea7b52-8d61-46f3-b283-2f1cd68e5940",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3b51cb02-47c6-422a-aa30-3b449db9de64",
+          "frames": [
+            {
+              "id": "7b9a0daa-ecde-49b6-8c46-0dc2c2415692",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b6bf6e39-b31a-42d2-a9c4-b2a4349d4c1f",
+          "frames": [
+            {
+              "id": "d79cb623-ca16-4717-b576-dab289bfc475",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "IRL_JAGS.png",
+  "checksum": "4a2d4bd1b7a80235ddf422fde55547f93d95a1cb"
+}

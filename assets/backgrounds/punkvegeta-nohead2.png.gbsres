@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "63400973-cbd4-4f60-980c-7102c8e53643",
+  "name": "punkvegeta-nohead2",
+  "symbol": "bg_punkvegeta_nohead2",
+  "width": 20,
+  "height": 24,
+  "imageWidth": 160,
+  "imageHeight": 192,
+  "tileColors": "006a+017+00c+013+023+013+00b+027+012+00a+01!028+01!00a+012+027+01!00a+01!028+01!00b+023+013+022+01!00b+016+022+01!00b+019+00b+015+00f+018+00b+01b+008+01d+007+01d+006+01a+00a+01e+005+01f+005+01f+0018+",
+  "filename": "punkvegeta-nohead2.png"
+}

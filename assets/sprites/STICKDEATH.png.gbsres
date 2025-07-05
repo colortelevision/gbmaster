@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "d20dd7fd-8062-4034-abf0-431f67a78535",
+  "name": "STICKDEATH",
+  "symbol": "sprite_stickdeath",
+  "width": 96,
+  "height": 32,
+  "states": [
+    {
+      "id": "752be8cb-5145-40b5-8755-fc3749e5f739",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "0952d1e4-3fbc-4db8-8b24-8dfddf4bbdd6",
+          "frames": [
+            {
+              "id": "799ee09e-5c18-4565-a34e-339fad374bb3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ef7c159e-fda2-4b1b-a478-a52733e102ca",
+          "frames": [
+            {
+              "id": "b714b0a6-66fb-4865-b12d-a2981f0c9617",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f939d92c-05ee-4470-9d99-27d0f95f502b",
+          "frames": [
+            {
+              "id": "9d10e72a-a720-4b90-bd97-4d4cee1e9450",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f3e83f0d-533f-4c7a-85ed-0a6672e47932",
+          "frames": [
+            {
+              "id": "8738cdb1-3f19-49c9-bd41-16b90b4c741d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "38cd37fd-d95b-476c-a4dd-f7ef77961fa2",
+          "frames": [
+            {
+              "id": "6e745c90-92df-4786-a93d-a8fee5f73fd3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "20a1fc11-d8a6-4fe8-a5d0-1150c02ecd6f",
+          "frames": [
+            {
+              "id": "231aa7ca-80c7-4b53-97cc-63bd50e30483",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "78bf122d-a4e7-4709-881a-9ce979d9b586",
+          "frames": [
+            {
+              "id": "cb9ad448-0b78-481e-a68b-7a7462833350",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a1c700af-74a9-4782-9739-4bd55a1565d3",
+          "frames": [
+            {
+              "id": "82d1c277-f1e1-4de0-8c70-c64bf8eba3df",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "STICKDEATH.png",
+  "checksum": "8e2ab3396380eb02c9b5d5b5db53c1745d0b206f"
+}

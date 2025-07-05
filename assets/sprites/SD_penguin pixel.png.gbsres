@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "dddc7685-deac-49c1-b0a9-fcff5b2c60bb",
+  "name": "SD_penguin pixel",
+  "symbol": "sprite_sd_penguin_pixel",
+  "width": 32,
+  "height": 32,
+  "states": [
+    {
+      "id": "a15ffae4-0122-4df3-a792-a7870ef1fa53",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "4ead24fc-35f0-4ff7-8d05-cad3e4c52fb2",
+          "frames": [
+            {
+              "id": "4329a94c-2f0f-43b5-a191-3051565a4354",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "97481637-461c-4a66-8828-bd65dfe3c647",
+          "frames": [
+            {
+              "id": "f8efe93b-f0e5-4d53-9ef7-7d80b9bef500",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0c101b4e-69ee-43c4-8703-fed5b55713e1",
+          "frames": [
+            {
+              "id": "da71685c-1900-4770-b520-249edeb1f5f5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e6b024e6-38d6-4c7f-acd3-ad3f46880e0b",
+          "frames": [
+            {
+              "id": "e0cae3e0-9468-4ace-90bb-412d6a540044",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4301f89e-484e-45a6-afe2-c59a7019e9ad",
+          "frames": [
+            {
+              "id": "a4c181c2-f339-495a-aabb-ac840e72105f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c83a4458-f367-4b85-9710-d0daa4828158",
+          "frames": [
+            {
+              "id": "61161f4d-dade-43b3-8281-cb1d8d18bf12",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c68a200a-8d15-47f5-af81-7a61b5edff5d",
+          "frames": [
+            {
+              "id": "4897265b-6f65-4d8b-a0a0-1e1bc8d56a81",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2372cc9f-2f81-4df4-9e10-e5baa74f5050",
+          "frames": [
+            {
+              "id": "124457b3-da79-481f-90f1-a8fff6016d1f",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "SD_penguin pixel.png",
+  "checksum": "4ec16f8076b70337aa30d1e17f2b33d59d2c0741"
+}

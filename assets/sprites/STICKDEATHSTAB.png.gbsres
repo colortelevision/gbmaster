@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "971dee96-52f6-46f5-be67-5c5950c5a38f",
+  "name": "STICKDEATHSTAB",
+  "symbol": "sprite_stickdeathstab",
+  "width": 96,
+  "height": 32,
+  "states": [
+    {
+      "id": "10b32520-e5d1-4f13-a30d-ced1c420d762",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "b7756ed5-0028-4c30-9f48-c779d508e4cf",
+          "frames": [
+            {
+              "id": "a2220fa5-0dd4-49f6-b8d6-0747e00e6b34",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c0ee2d78-3a30-4532-8467-29ca01cf54ff",
+          "frames": [
+            {
+              "id": "d98a281b-bd32-4336-984f-bfdfb81141f7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7391af48-34c6-4f2d-bb66-8da1ab05633b",
+          "frames": [
+            {
+              "id": "82e592c3-369e-45be-9f6c-daf483a5cc50",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "099504fb-28ba-43f4-9e47-b4655606f72a",
+          "frames": [
+            {
+              "id": "0fb8fc9a-96bb-47ec-ab80-e55c3f3e771d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5d818276-f27f-4da6-b407-30f13825911a",
+          "frames": [
+            {
+              "id": "c863745f-5c57-4598-8e0a-b422a4cfeef9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "898bf657-68c5-4fc0-8883-f1417e99e598",
+          "frames": [
+            {
+              "id": "0a62493d-3b80-4d21-a767-e6922c95bfa4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8c363509-09e1-463f-80a0-88f0209a0ad3",
+          "frames": [
+            {
+              "id": "be850136-f675-411a-a7d1-530e9a0a3fa6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4db86d36-4ae7-4100-b142-b104906d5ba0",
+          "frames": [
+            {
+              "id": "c93e3e3b-2ac1-4093-8b67-b568dc9a2e2d",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "STICKDEATHSTAB.png",
+  "checksum": "8e2ab3396380eb02c9b5d5b5db53c1745d0b206f"
+}

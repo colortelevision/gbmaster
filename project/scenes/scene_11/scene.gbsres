@@ -1,0 +1,30 @@
+{
+  "_resourceType": "scene",
+  "id": "7026f428-8083-460f-8edc-04587d9554ec",
+  "_index": 10,
+  "name": "Scene 11",
+  "backgroundId": "cb773f91-db57-4696-a5f6-fde10cab4e14",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "POINTNCLICK",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_11",
+  "x": 280,
+  "y": 496,
+  "script": [
+    {
+      "command": "EVENT_ACTOR_HIDE",
+      "args": {
+        "actorId": "$self$"
+      },
+      "id": "9bb4ba2b-c0b9-4c2f-8055-c476995c25ad"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

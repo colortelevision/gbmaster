@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "40f76cef-df47-4d8b-959d-c334df885c2d",
+  "name": "sp",
+  "symbol": "bg_sp",
+  "width": 20,
+  "height": 30,
+  "imageWidth": 160,
+  "imageHeight": 240,
+  "tileColors": "",
+  "filename": "sp.png"
+}

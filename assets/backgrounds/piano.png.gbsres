@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "5d93622c-1bc0-4191-ad03-b8a82ce95e63",
+  "name": "piano",
+  "symbol": "bg_piano",
+  "width": 30,
+  "height": 18,
+  "imageWidth": 240,
+  "imageHeight": 144,
+  "tileColors": "",
+  "filename": "piano.png"
+}

@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "a5eb10b8-378b-42a9-84f8-b31bfb0a4686",
+  "name": "UNT_Matt sprite sheet RPG ",
+  "symbol": "sprite_unt_matt_sprite_shee",
+  "width": 129,
+  "height": 32,
+  "states": [
+    {
+      "id": "892ab222-4ac0-4c0a-ad15-c75d42f8cb41",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "21b034c7-79fa-47d3-9bb1-a63e9c5c66b4",
+          "frames": [
+            {
+              "id": "bc8b5278-69b0-4a43-84fc-02779087471f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "92b80799-0008-4e53-8d38-f8869c9acead",
+          "frames": [
+            {
+              "id": "62045f29-0b75-454e-9d99-f4ddc441447a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9f25e32e-f97d-4993-a23d-6c6f48fd2724",
+          "frames": [
+            {
+              "id": "4cbfca3b-aea6-446c-9289-69abe3b3f92d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "796ac8ec-9c3a-431d-93c1-2eaa18f11e2c",
+          "frames": [
+            {
+              "id": "3bc1abce-a9f8-493b-ad3a-b24a225e2adb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "95854fee-6f97-48b8-bb29-89dab864425d",
+          "frames": [
+            {
+              "id": "3d849e00-2e87-4e1e-8b81-b1ff6fabaebf",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2a5f9243-e066-42ca-8472-00fb02337ab3",
+          "frames": [
+            {
+              "id": "7fd7a150-f0fe-47cf-a555-018875790778",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3e261d22-337b-46cb-a177-7bf03aa5ebc7",
+          "frames": [
+            {
+              "id": "206cdbef-b38c-4bfd-b8b3-8a60ecab1c14",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "102fdd48-d3fd-40ae-bb5b-efde511d0ec1",
+          "frames": [
+            {
+              "id": "fd46bbb6-e343-4bb0-90d9-a317e80795bd",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "UNT_Matt sprite sheet RPG .png",
+  "checksum": "07a4c7030ea83fe28f60ab276c8a9ca357174758"
+}

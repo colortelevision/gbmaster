@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "53d8a698-51cb-4379-9d55-b4eb8809bdc0",
+  "name": "ZEP-EMBLEMS",
+  "symbol": "bg_zep_emblems",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 150,
+  "tileColors": "",
+  "filename": "ZEP-EMBLEMS.png"
+}

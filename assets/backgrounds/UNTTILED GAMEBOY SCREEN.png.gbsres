@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "e91b700b-f161-4b3b-94a3-b6cec9e0d5b6",
+  "name": "UNTTILED GAMEBOY SCREEN",
+  "symbol": "bg_unttiled_gameboy_screen",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "tileColors": "",
+  "filename": "UNTTILED GAMEBOY SCREEN.png"
+}

@@ -1,0 +1,61 @@
+{
+  "_resourceType": "script",
+  "id": "9f61ff47-ef0f-4c00-bca2-87be6c11a011",
+  "name": "bump",
+  "description": "bump\n",
+  "variables": {},
+  "actors": {},
+  "symbol": "script_4",
+  "script": [
+    {
+      "id": "4ba48b70-6cc4-4106-810b-7646e4755e42",
+      "command": "EVENT_GROUP",
+      "args": {},
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_TEXT",
+            "args": {
+              "text": [
+                "BACK AGAIN,\n8-BIT MAN?",
+                "THEN I'LL PLAY\nYOU THE SAIYAJIN\nNATIONAL ANTHEM!"
+              ],
+              "__section": "text",
+              "avatarId": "",
+              "minHeight": 4,
+              "maxHeight": 7,
+              "textX": 1,
+              "textY": 1,
+              "textHeight": 5,
+              "position": "bottom",
+              "clearPrevious": true,
+              "showFrame": "true",
+              "speedIn": 1,
+              "speedOut": 0,
+              "closeWhen": "key",
+              "closeButton": "any",
+              "closeDelayTime": 0.5,
+              "closeDelayFrames": 30,
+              "__collapse": false
+            },
+            "id": "d1f5c79a-f3c0-4aac-aacd-f68389973e16"
+          },
+          {
+            "command": "EVENT_MUSIC_PLAY",
+            "args": {
+              "musicId": "183b1747-abbb-4aa2-b202-4111f750ec27"
+            },
+            "id": "2dfd9127-d133-444d-8185-3dbdb80411b4"
+          },
+          {
+            "command": "EVENT_INC_VALUE",
+            "args": {
+              "variable": "0"
+            },
+            "id": "5447cea0-2d06-475a-bfb0-0dc62e8ca26e"
+          }
+        ]
+      }
+    }
+  ]
+}

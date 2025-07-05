@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "05371823-18c5-42a6-af21-524cd2e632f3",
+  "name": "UNT_Matt PKMN style",
+  "symbol": "sprite_unt_matt_pkmn_style",
+  "width": 27,
+  "height": 56,
+  "states": [
+    {
+      "id": "5d8a1469-0704-44c6-873a-2c2d1d63080b",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "a81635fd-21a2-4462-84b6-aa7bf7979722",
+          "frames": [
+            {
+              "id": "29afbd8d-4b07-4c67-a924-17987acaf9d3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f58b7cc5-52ab-45e9-9ddf-5a0af64e5bd1",
+          "frames": [
+            {
+              "id": "8d0f31c6-00cb-43cc-baa3-6e9f8e4e041a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6b4c6c56-0c98-45d7-ab64-674a11540296",
+          "frames": [
+            {
+              "id": "6a84fb50-5f78-4d77-a3ef-cb685a484c53",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e3cc7cc9-651e-43e8-a763-7e3d731ef841",
+          "frames": [
+            {
+              "id": "16ab11a4-2412-45a9-af3f-3e67ef3e355f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2356691f-fd58-4aee-9157-ec74ac7ab08c",
+          "frames": [
+            {
+              "id": "cff521dc-3f99-432f-ac5e-5a7d4abb780f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "335c19a7-911e-4d6b-98e4-953ad4b4555a",
+          "frames": [
+            {
+              "id": "66b93c7b-72ae-4fec-bf20-189d4876b498",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "35058ca8-3677-42f9-93b0-572c8c201bac",
+          "frames": [
+            {
+              "id": "da7324f1-79dc-4507-93b8-3fd929a874a7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "15663a96-79b1-4b13-82d5-d5578f6f44df",
+          "frames": [
+            {
+              "id": "d60f10d6-4865-4bc9-9255-c3037e3f562a",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "UNT_Matt PKMN style.png",
+  "checksum": "7d185aac6c7574428e4b1328818520c78311ac00"
+}

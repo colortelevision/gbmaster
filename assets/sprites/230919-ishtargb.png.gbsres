@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "396ba43e-e15d-47b7-855b-1d75d7d8e672",
+  "name": "230919-ishtargb",
+  "symbol": "sprite_230919_ishtargb",
+  "width": 16,
+  "height": 32,
+  "states": [
+    {
+      "id": "27da9f51-95d7-45cd-9beb-ff855885fbee",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "d1c1a944-ec5f-4966-8f2c-d70dfb68658f",
+          "frames": [
+            {
+              "id": "502b1dba-79e0-41d0-8cee-45ef1f05ce5c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5438432c-9bdd-4bfa-8c07-7275a134dcdf",
+          "frames": [
+            {
+              "id": "3d57ec27-ef9c-40c0-b135-1d5ff9d5a475",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6e5783fe-9435-422c-9d40-bdd861809e3c",
+          "frames": [
+            {
+              "id": "7718109d-7b5e-4186-864e-c19ee98988df",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5967002a-36f0-4a36-8d47-d9b8a15fdf55",
+          "frames": [
+            {
+              "id": "5e57d5bd-62bc-41a8-bf2f-7cba33a68fb3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "afea92d8-be1c-4497-9872-7d95c51613f5",
+          "frames": [
+            {
+              "id": "0dd6b787-863c-4fdc-9ade-0c466572ad6a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0f4d65c2-d0fc-43b8-8fde-e85809a44f51",
+          "frames": [
+            {
+              "id": "e5417184-e672-402e-8e23-19e34e734f73",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "85ca7270-7240-4bab-a1a7-85562d7a5260",
+          "frames": [
+            {
+              "id": "96eb89b7-72d9-421f-b21c-a556bcc6fd54",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "24b604db-d128-426a-a704-e0350d77b773",
+          "frames": [
+            {
+              "id": "f95d6a49-331e-4615-8dc9-8003f321013e",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "230919-ishtargb.png",
+  "checksum": "a732440d166fe9011a809872ee1d952ab823b991"
+}

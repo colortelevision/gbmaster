@@ -1,0 +1,12 @@
+{
+  "_resourceType": "tileset",
+  "id": "639c6d71-7813-4bb7-ae8c-4d62f203f580",
+  "name": "flametile4",
+  "symbol": "bg_flametile4",
+  "width": 4,
+  "height": 1,
+  "imageWidth": 32,
+  "imageHeight": 8,
+  "tileColors": [],
+  "filename": "flametile4.png"
+}

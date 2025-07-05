@@ -1,0 +1,158 @@
+{
+  "_resourceType": "sprite",
+  "id": "60be695f-f1dc-4ce7-99df-5ec298ee7670",
+  "name": "SD_Cricket 32x16 spritesheet",
+  "symbol": "sprite_sd_cricket_32x16_spr",
+  "width": 32,
+  "height": 16,
+  "states": [
+    {
+      "id": "8ed30164-2917-4be1-bdc2-759610aa2bc0",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "d053312b-b122-46c1-987a-59efd8896005",
+          "frames": [
+            {
+              "id": "dfe71ca7-58cb-4811-9aa5-971ea4106e57",
+              "tiles": [
+                {
+                  "id": "4363677e-fc51-46e4-870d-17f15d1a5ac9",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "8eaad281-a1db-4535-a862-509e72e0bf63",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            },
+            {
+              "id": "bcc59f38-9727-4c2b-ad6b-c8102f92c6e1",
+              "tiles": [
+                {
+                  "id": "92d3ae0d-d5d3-423e-8785-aee5490e76e1",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "0149d8f5-9e7e-419f-a421-2e297db169ba",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "fac045ca-3f59-43a9-b9d0-df70f83a3bc5",
+          "frames": [
+            {
+              "id": "c2a0eda0-bfeb-4dca-b5b7-2f10430c30eb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1e7210be-804d-495b-b6c6-228fa493e90e",
+          "frames": [
+            {
+              "id": "a4fe6f56-0f0e-4335-9239-29ada8250a03",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2799fe82-9afd-477d-9de7-20009da3d709",
+          "frames": [
+            {
+              "id": "2e6b6c29-63c5-4e9a-928b-652c7096f0fc",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d494cc07-07a4-4687-ad89-872b6310d2e2",
+          "frames": [
+            {
+              "id": "c4fdf302-09a0-4d5b-bb6c-9b8be58c89c6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "949945c6-512b-4cd1-a46a-581a9f484956",
+          "frames": [
+            {
+              "id": "d8ec97cc-9335-4f0e-bade-604134a2fe3b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "84505082-8dc4-4a1f-8ecc-4b940a1ac113",
+          "frames": [
+            {
+              "id": "60721229-e09f-4684-b0a1-de1d9d9f9a50",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "03134c34-66f5-4c13-bccb-feabc973a2a0",
+          "frames": [
+            {
+              "id": "70a9134d-2054-40f8-82ac-b6b1dd0e031c",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 4,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "SD_Cricket 32x16 spritesheet.png",
+  "checksum": "ab3a9e906173ac0cf8b953b3b274dd6990ff63a6"
+}

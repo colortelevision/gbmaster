@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "93fe81d9-cb76-4157-8b52-52f0f15d6b8e",
+  "name": "linkball",
+  "symbol": "sprite_linkball",
+  "width": 8,
+  "height": 16,
+  "states": [
+    {
+      "id": "8ee8a939-12dd-43ca-ad46-ccd1ed91decc",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "023f3378-4340-4cc9-ab64-22a6aa95cce0",
+          "frames": [
+            {
+              "id": "ad50495e-c1b9-45ef-a166-95835ea1de4f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "331433ba-0479-4d6f-aae4-b61ea54d5152",
+          "frames": [
+            {
+              "id": "286d3f3a-3dc8-45dc-a27d-4641fb4c34c6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "71c1d24a-3e97-4e78-8111-a85e5176fd2d",
+          "frames": [
+            {
+              "id": "3034a66d-5ec7-4747-aa60-0ea8d01b5ede",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "26762c96-aa93-4d8e-a6e6-13f85197842b",
+          "frames": [
+            {
+              "id": "21abe824-7847-453d-a243-2a3e61cdcc17",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6f3017a6-2115-4117-b7b2-95c470cab268",
+          "frames": [
+            {
+              "id": "1aed0120-123a-46a1-9e5d-e91d3f896bf8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9fe4a22c-1984-4870-8491-41f3d92969c5",
+          "frames": [
+            {
+              "id": "a4012eaa-9708-4acf-9ad3-04d0be39958d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7e47a6cd-1b32-4d24-9d94-cb48765d4a4c",
+          "frames": [
+            {
+              "id": "d44c9298-9f6a-4a59-9b78-dcfe9e960398",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e1df0b78-98b7-4b97-912e-1b9f465ac334",
+          "frames": [
+            {
+              "id": "3c82c45d-cab9-4acf-9559-ba0ac1e0d31d",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "linkball.png",
+  "checksum": "891bd1ae9a39eda46875536ec9cead28b1f71334"
+}

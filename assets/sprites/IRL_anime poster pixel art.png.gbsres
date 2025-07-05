@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "a88e4673-6468-4ab9-ae12-b88438e23f9e",
+  "name": "IRL_anime poster pixel art",
+  "symbol": "sprite_irl_anime_poster_pix",
+  "width": 94,
+  "height": 144,
+  "states": [
+    {
+      "id": "85bbdc8c-8998-4f77-bfc2-019740ce5094",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "2655056e-b67b-4657-9dd0-1444fad7782c",
+          "frames": [
+            {
+              "id": "0a8483ed-355f-471f-a6ab-7fb43a080b7d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f77451da-4ff4-47a7-bf14-9207e4009273",
+          "frames": [
+            {
+              "id": "476eea32-4d0d-4024-84c9-b17611e4af24",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fb383557-4db0-480d-9bd7-8b104b49ba15",
+          "frames": [
+            {
+              "id": "929fffe1-6860-46ab-9044-a78dc05cfba8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "67d9d5ec-b152-4203-b2fe-8c676bbc5c97",
+          "frames": [
+            {
+              "id": "367d2b52-db9e-4925-b13d-2e72d3237aa7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "050537b0-afeb-4aaf-89ed-7d96f51c90a8",
+          "frames": [
+            {
+              "id": "87333887-01eb-451e-819c-79469a00abcb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "07ebe230-722a-419f-a32e-667dae119ed6",
+          "frames": [
+            {
+              "id": "9d4e8bfe-9bff-4d5a-a2fc-28aebf675db5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "33b50253-9935-4716-acf3-7417b344a069",
+          "frames": [
+            {
+              "id": "e9aa27da-8701-4c49-9aba-06306b37feba",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "eb6fa2b4-ca78-4de7-b965-ef6adf08b167",
+          "frames": [
+            {
+              "id": "6d1cd557-d364-4e47-b44d-90e059b68236",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "IRL_anime poster pixel art.png",
+  "checksum": "94a27c3b00072ff0397585026d67709590ced6c9"
+}

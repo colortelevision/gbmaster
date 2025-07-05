@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "ed6e461d-265d-4bb5-8487-7a7e385fde26",
+  "name": "7x7gridmap",
+  "symbol": "bg_7x7gridmap",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "tileColors": "0015+05e+006+05e+006+05e+006+05e+006+05e+006+05e+006+05e+006+05e+006+05e+006+05e+006+05e+006+05e+006+05e+006+05e+0041+",
+  "filename": "7x7gridmap.png"
+}

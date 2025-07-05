@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "f1559b8f-32b7-412b-b80e-ddc24fccce58",
+  "name": "inannastemple",
+  "symbol": "bg_inannastemple",
+  "width": 20,
+  "height": 20,
+  "imageWidth": 160,
+  "imageHeight": 160,
+  "tileColors": "013+002+07b+012+072+013+002+07b+012+072+014+07c+018+07c+018+07c+018+07c+018+07c+018+07c+018+07c+018+07c+018+07c+018+07c+018+07c+018+07c+018+07c+018+07c+0154+",
+  "filename": "inannastemple.png"
+}
